@@ -1,0 +1,39 @@
+<imovel>
+  <titulo>Fiorenttino Residence</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/franca/apartamentos-fiorenttino-residence</link>
+  <cidade>Franca</cidade>
+  <descricao>Com apartamentos de 2 quartos, opção de suíte e varanda gourmet com churrasqueira, você vive com mais conforto, privacidade e espaço para aproveitar a vida da maneira que sempre sonhou. Os ambientes são bem distribuídos e planejados para oferecer praticidade no dia a dia e aconchego nos momentos de descanso. Tudo isso com vaga de garantida e a tranquilidade de morar em um condomínio fechado com segurança.</descricao>
+  <endereco>Rua Bahij Toufik Kanawati, 4.900 (Região do Jardim Noêmia - Franca/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>47,91 a 50,77 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINORESIDENCE_PPCSALA_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PPCVARANDA_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PPCCHURRASQUEIRA_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PPCPISCINADIURNA_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PPCPISCINAENTARDECER_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PPCPLAYDROUD_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNO-RESIDENCE_PPC-POMAR_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PPCFACHADAENTARDECER_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINORESIDENCE_PPCELEVADOR_17-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PPCVARANDAEXTERNA_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINORESIDENCE_PPCCOZINHA_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINORESIDENCE_PPCQUARTO_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/20211105032109_FC000321G_Foto-Aérea_FIORENTTINO-RESIDENCE.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PPCVOOGERAL_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PHAPTO102TORRE01_IMPRESSO_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PHAPTO202TORRE01_IMPRESSO_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNORESIDENCE_PHAPTO204TORRE01_IMPRESSO_16-02-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4298/FIORENTINNO-RESIDENCE_IMPLANTAÇO_IMPRESSO_16-02-2022.jpg</item>
+  </galeria_plantas>
+</imovel>

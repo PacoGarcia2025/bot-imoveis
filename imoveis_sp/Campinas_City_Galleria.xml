@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>City Galleria</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-city-galleria</link>
+  <cidade>Campinas</cidade>
+  <descricao>Cercado pelo melhor de Campinas: 2 min da Rodovia Dom Pedro I, 3 min do Galleria Shopping, 4 min do Supermercado Tauste, 5 min do Sam’s Club e do Spani Atacadista, 8 min do Carrefour Dom Pedro e da Lagoa do Taquaral, 9 min do Shopping Iguatemi Campinas e a 15 min do Shopping Parque Dom Pedro, UNICAMP e PUC Campinas.</descricao>
+  <endereco>Rua Carlos Luiz Barroso Ehrenberg, nâ 181 (Região do Galleria - Campinas/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>45,49 a 53,59 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITYGALLERIA03_SALAECOZINHAf84ef315-a26a-4809-80a3-5c81f6fd0e1e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITYGALLERIA03_GUARITA_04_20254541b277-6f61-49e3-8789-bc297e2004a4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-03_-SALO-DE-FESTAS_04_2025.04a673c221-2876-4352-8531-0bbe09bed56d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-03_GOURMET_04_2025.04959dba23-b750-437d-a7fe-7db529552004.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA03_KIDS_2025.04.296010a93e-fbc9-447c-bf5e-f4cdb54ea438.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITYGALLERIA03_PISCINA01_03_2bcb763ed-51c8-4dd2-a849-56197449792e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-03_PISCINA-02_03_2025.04430137be-df73-4c79-8ff2-6cc775211de0.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-03_PLAY-E-PET_03_2025.04cec19118-8e8c-44f7-a2da-cc3e203acc89.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-03_QUADRA-DE-AREIA_03_2025.04c85c2fd2-6447-4917-a641-f6c0ef7c2c2a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-03_SALA-DE-ESTUDOS_04_2025.05ce868456-f44f-47a4-9b2d-f56e73cb0d7f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITYGALLERIA03_PETPLACE_02_2090161872-0358-4d6c-9b77-1bd037ac3c5f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-03_REA-PRIVATIVA_2025.049af9f0b9-f8ad-4574-9cfd-d85bc4192432.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-03_QUARTO-CASAL_TORRE-02_2025.04bf41e7d2-1038-46d9-92f5-a6159815e332.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-03_QUARTO-SOLTEIRO-E-ESCRITRIO_2025.045acaad67-8c85-41bd-b487-9aee92d133fc.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITYGALLERIA03_SALAECOZINHA8aefbb77-58c4-4faa-88fd-2136376a3394.jpeg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-APARTAMENTO-004-TRREO33dffd26-df04-4fc4-a12a-ac3771501872.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-APARTAMENTO-008-TRREO-(1)22acf478-0e77-48d9-a2cc-c97c207bc78f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-APARTAMENTO-1003-TIPO4389322b-f994-4257-aa75-2229380f560d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITYGALLERIA-APARTAMENTO1007b4f98fbf-ffa9-4f30-93e4-675f001f3918.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4734/CITY-GALLERIA-IMPLANTAÇOeebc35ee-af92-4d02-b023-8f83af79c26c.jpeg</item>
+  </galeria_plantas>
+</imovel>

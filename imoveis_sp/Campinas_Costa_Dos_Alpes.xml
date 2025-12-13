@@ -1,0 +1,37 @@
+<imovel>
+  <titulo>Costa Dos Alpes</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-costa-dos-alpes</link>
+  <cidade>Campinas</cidade>
+  <descricao>Próximo a Escola Estadual Escritora Rachel de Queiroz, Supermercados Yeda, Mercearia Família, Mercado Pinheiro, Posto Ipiranga, Atacadão, Parque Linear José Mingone, Posto Shell, Cobasi Campinas Amoreiras, Assaí Atacadista, Havan Campinas, Parque Ecológico Luciano do Valle, Terminal de Ônibus da Vila União. Principais vias: Rodovia dos Bandeirantes, Av. Ruy Rodriguez, Av. das Amoreiras, Av. Carlos Lacerda, Av. Albina Scarassatti Missio.</descricao>
+  <endereco>Rua Baziliza Bueno de Camargo, 183 (Jardim Paraíso Viracopos - Campinas/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>41,1 a 43,52 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_QUARTO_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_PISCINA_TARDE_R01371697f6-c44e-4c83-b3f5-12f32baf9752.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_GOURMET_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_HALL_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_FACHADA_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_GUARITA_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_LIVING_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_VARANDA_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_QUARTO_CASAL_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/MN004422C_FOTOAÉREA_COSTADOSALPES_ALTA(1).webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/vitrine/CasaPaulistaebd0eb89-3c87-4dae-9337-76726b0bc7b1.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES_AEREA_GERAL_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES-PLANTA-APTO-205-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES-PLANTA-APTO-207-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES-PLANTA-APTO-101-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4419/COSTA-DOS-ALPES-PLANTA-APTO-103-RF.jpg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Parque Rio De Portugal</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-parque-rio-de-portugal</link>
+  <cidade>Sao Jose Do Rio Preto</cidade>
+  <descricao>Próximo a UBSF Cidade Jardim, Leroy Merlin, Max Atacadista, UPA Tangará, Casa de Carne D'Paula, Posto Ipiranga, E.E. Dinorath do Vale, Borges Beach Sports e Society, Parque Ecológico Danilo Santos de Miranda, Carrefour, a 10 minutos do Rio Preto Shopping Center. Principais vias de acesso: Av. Nações Unidas, Av. Horácio Neves de Azevedo, Rod. Transbrasiliana, Rod. Washington Luiz.</descricao>
+  <endereco>Rua Projetada C, 151 (Região Cidade Jardim - São José do Rio Preto/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_PPC_GUARITADIURNA_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_INTERNAS_VARANDAEXTERNA_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_INTERNAS_VARANDAINTERNA_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_INTERNAS_SALA_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_INTERNAS_QUARTOMENOR_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_INTERNAS_QUARTOCASAL_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_INTERNAS_PRIVATIVAAPTO101BLOCO01_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_PPC_PISCINA_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_PPC_PETPLACEPLAYGROUND_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_PPC_FESTAS_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_PPC_GOURMET_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_PH_APTO201BLOCO01_V03.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_PH_APTO202BLOCO01_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_PH_APTO102BLOCO01_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4417/PARQUERIODEPORTUGAL_PH_IMPLANTACAO_V03.jpg</item>
+  </galeria_plantas>
+</imovel>

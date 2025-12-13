@@ -1,0 +1,39 @@
+<imovel>
+  <titulo>Residencial Piazza Di Milano</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-residencial-piazza-di-milano</link>
+  <cidade>Piracicaba</cidade>
+  <descricao>Próximo ao Clube Atlético Piracicabano, Supermercado JLU, Praça Vicente Lopes Moreira, Escola municipal Antônio Domingues Rodrigues, Escola estadual Prof. Dr. João Chiarini, Zoológico Municipal de Piracicaba, Delta Supermercados, a 7 minutos do Shopping Piracicaba, a 15 minutos do Hospital Unimed Piracicaba. Vias de acesso: Rua Ignácio da Cunha Caldeira, Rod. Herminio Peltrim, Av. Jules Rimet, Rua Silveira Sampaio, Av. Rio Claro.</descricao>
+  <endereco>Avenida Brasília, 850 (Região do Vila Industrial - Piracicaba/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>41,19 a 44,33 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_RF2_LIVING_203_BL03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_LAZER_RF2_FESTAS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_LAZER_RF2_JOGOS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_LAZER_RF2_KIDS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_RF2_PISCINA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_RF2_PLAYGROUND.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_RF2_POMAR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_LAZER_RF4_GOURMET.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_RF2_PORTARIA_NOITE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_HALL_RF2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_RF3_FACHADA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO-RF2_VARANDA_203_BL03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZA_DI_MILANO_PRIVATIVA_101_RF2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DE_MILANO_QUARTO_RF2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DE_MILANO_VARANDA_203_BL03_RF2.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_AEREA_GERAL_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_BL_04_AP_101_R0F.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_BL_03_AP_104_RAF2.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_BL_03_AP_201_RAF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4302/PIAZZA_DI_MILANO_BL_03_AP_203_RAF.JPG</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Residencial Canoas</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-canoas</link>
+  <cidade>Campinas</cidade>
+  <descricao>Aqui, você realiza o sonho de ter seu próprio apê de 2 dormitórios com varanda para aproveitar o pôr do sol ou opção de área privativa para quem valoriza um espaço extra. Um condomínio moderno, com torre única com três elevadores e infraestrutura pensada para facilitar sua rotina e garantir a sua tranquilidade.</descricao>
+  <endereco>Rua Antônio José Pereira 80 (Região do Jardim Morumbi - Campinas/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>43,93 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_INTERNA_VARANDA_FINAL_2024.07.18252cfed2-071b-46a0-aaea-90491e423aee.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_PPC_GUARITA_FINAL_2024.07.1852171823-5c8a-4a46-bac4-edb4eaddf21a.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_PPC_GOURMET_FINAL_2024.07.18a32255f5-8abd-45e1-b693-f48945a715e4.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_PPC_PISCINA_FINAL_2024.07.180127eaad-f8d5-4671-b2ff-79ca2e182955.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_INSERÇO_FOTO_FINAL_2024.07.18a5d8e544-c4bc-4581-8aa5-ff32f1301d1b.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_PPC_TORRE_FINAL_2024.07.1857eb78f0-5bc4-4b98-be43-359ab360c384.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_INTERNA_SALA_COZINHA_FINAL_2024.07.186b322f7c-8312-4263-8840-3ddb48833bba.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_INTERNA_QUARTO_SOLTEIRO_FINAL_2024.07.18ae5be4eb-854e-4162-ad68-2729041beac2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_INTERNA_QUARTO_CASAL_FINAL_2024.07.187ce33eb7-2911-40d2-9321-849205570bbd.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_INTERNA_GARDEM_FINAL_2024.07.18943717d9-6caa-425e-bbf8-5c48c0a9aa87.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/797-3_res_canoas_ima_aer_insercao_ALTA(1)_compressedf504a421-3917-4100-bbb7-bd7691bc7948.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/vitrine/MinhaCasaMinhaVida7e3e06f1-a252-41f3-9ca9-dcfb43711ec6.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_IMP.3D_LAZER_FINAL_2024.07.182501af2b-bcb5-41d4-9918-49bff4499011.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_IMP.3D_GERAL_FINAL_2024.07.188adee29d-93d2-42db-a795-15456e71ab4d.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_PH_TIPOF207_FINAL_2024.07.181c52c263-e213-40ad-a3e9-6563b03a3261.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_PH_TIPOF205_FINAL_2024.07.18777f2554-788a-4005-a4b6-bb5a84d830af.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4621/MRV_CANOAS_PH_TERREOF04_FINAL_2024.07.18bd3e7187-aa03-4a95-9f61-00445ef99cc2.jpeg</item>
+  </galeria_plantas>
+</imovel>

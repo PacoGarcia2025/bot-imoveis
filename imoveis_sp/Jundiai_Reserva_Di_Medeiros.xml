@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Reserva Di Medeiros</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/jundiai/apartamentos-reserva-di-medeiros</link>
+  <cidade>Jundiai</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Avenida José Gothard, nâ 393 (Medeiros - Jundiaí/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>43,78 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_INTERNA_VARANDA_FINAL8c32a6ab-f95f-41d8-8a94-1b4b2da8af8e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_PPC_PISCINA_1_FINAL2b46a932-0d17-4bbb-a1df-8d7c455e3c31.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/MRV_RESERVA-DE-MEDEIROS_PLAYGROUND_FINAL9bcd83c3-3d87-4df8-a22b-06e19fdd72d2.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_PPC_CHURRASQUEIRA_FINAL74b5f23d-cfc4-4056-ae86-bde4095d8e90.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_PPC_PETPLACE_FINAL5ef6950a-ed59-40d1-8ac7-a35c553c16e9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_PPC_PISCINA_2_FINAL0799ce86-4275-4d99-8d46-a376c97f5e81.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_PPC_SALAO-DE-FESTAS_FINALc3c5d38f-5294-4f77-b83d-ad4a1024ccc1.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_PPC_FACHADA_FINAL8d91eb2e-4850-4eca-822d-b04288ad3d09.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_PPC_GUARITA_FINAL81bc70a4-9ce7-44a5-a4ab-dc5c1edfed70.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_INTERNA_AREA-PRIVATIVA_FINALa0708e25-22ef-4117-a452-c280f86a0f99.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_INTERNA_QUARTO-MAIOR_FINAL3575e8fe-ff65-42c0-ad3a-2f8931dabedd.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_INTERNA_QUARTO-MENOR_FINALc117e126-91e4-4bc0-8d45-d88d11bbaeb6.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVA-DI-MEDEIROS_INTERNA_SALA_FINAL29f20a44-9ec5-4ab3-89e4-496f87d87908.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/Medeiros_Implatacao-Geral-Isometrica_FINAL65089b69-382a-4d89-88bd-9d7f78b31319.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVADEMEDEIROS_PH_TORRE01_A(4)ff0f5e15-df08-49a9-ace3-fbb20a49957d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVADEMEDEIROS_PH_TORRE01_A(3)4892e630-576e-4c83-9d91-425cdf57cdc1.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVADEMEDEIROS_PH_TORRE01_A(2)296bbfc5-6812-4b6e-b2d2-2fbf218031b7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4740/RESERVADEMEDEIROS_PH_TORRE01_A(1)e751a7d2-06ae-407c-8add-e5466145007a.jpeg</item>
+  </galeria_plantas>
+</imovel>

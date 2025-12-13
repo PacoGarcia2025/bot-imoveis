@@ -1,0 +1,31 @@
+<imovel>
+  <titulo>Lotes Smart Urba Vila Profeta</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/lotes-smart-urba-vila-profeta</link>
+  <cidade>Campinas</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Ana Cristina (Ana Cristina Cruz Cesar), 175 (Região de Sumaré - Campinas/SP)</endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-AVENIDAPRINCIPAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-PISTADESKATE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-FACHADA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-PRACA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-PARQUELINEARFITNESS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-LAZERAOARLIVRE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-ROTATORIA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-PARQUELINEARFITNESS-2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/infraestrutura-completa.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/readelazerparatodasasidades.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Qualidadeambiental.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PPC-IMAGEMAEREA-3D.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PH-PAVIMENTO01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4582/URBAMAIS-VILAPROFETA-PH-PAVIMENTO02.jpg</item>
+  </galeria_plantas>
+</imovel>

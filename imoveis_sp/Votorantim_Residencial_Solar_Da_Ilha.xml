@@ -1,0 +1,32 @@
+<imovel>
+  <titulo>Residencial Solar Da Ilha</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/votorantim/apartamentos-residencial-solar-da-ilha</link>
+  <cidade>Votorantim</cidade>
+  <descricao>Situado na valorizadaregião do Parque Jataí, oResidencial Solar da Ilhaé a oportunidade perfeita para quem deseja conquistar o sonho da casa própria e deixar o aluguel para trás. Com uma localização estratégica emVotorantim, o empreendimento fica próximo a comércios essenciais, como o Supermercado Malucho, bancos, padarias, além de escolas e unidades de saúde, facilitando o seu dia a dia com tudo o que você precisa por perto.</descricao>
+  <endereco>Rua Anália Pereira, nâ 1200 (Região do Jataí - Votorantim/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,12 a 39,3 m²</area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/SOLAR-DA-ILHA_PCC_INTERNA_PRIVATIVA_FINAL-2024-01-31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/SOLAR-DA-ILHA_PCC_INTERNA_SALA_FINAL-2024-01-31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/SOLAR-DA-ILHA_PCC_GUARITA_FINAL_2024_05_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/SOLAR-DA-ILHA_PCC_INTERNA_QUARTO-MENOR_FINAL-2024-01-31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/SOLAR-DA-ILHA_PCC_INTERNA_QUARTO-MAIOR_FINAL-2024-01-31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Gazebopergolado.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/vitrine/MinhaCasaMinhaVida3c7be6ba-23bb-41d4-817c-7cca190a475e.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/SOLAR_DA_ILHA_PCC_IMPLANTAÇO_FINAL_2024-01-31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/SOLAR-DA-ILHA_PH_APTO-204_VER-FINAL_2024_06_274c9690be-d198-4b3e-8918-a1b1b49e1c26.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4550/SOLAR-DA-ILHA_PH_APTO101_VER-FINAL_2024_06_275b81636d-e7ad-4f92-87f8-feece5558b0f.jpg</item>
+  </galeria_plantas>
+</imovel>

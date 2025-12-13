@@ -1,0 +1,38 @@
+<imovel>
+  <titulo>Casas Reserva Real   Palacio De Turim</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/casas-reserva-real---palacio-de-turim</link>
+  <cidade>Ribeirao Preto</cidade>
+  <descricao>Localização privilegiada! OReserva Realfoi escolhido pela MRV para quem sempre sonhou em facilitar o dia a dia. Bairro consolidado, com infraestrutura comercial completa emRibeirão Preto.Próximo a Lotérica Scarpellini Gomes, LavaSim Lavanderia, Panificadora São Lucas, Supermercado DIA, Drogaria Juliana, Supermercado BIG Compras L05, Clube dos Comerciários, Escola Municipal Dercy Célia Seixas Ferrari, EMEI Wanda Princivalli Marçal. Entre as principais vias de acesso estão a Av. Henri Nestle, Av. José Antônio Ferrarezi, Rua Gildo Mobiglia, Rua Roberto Castreschini, Rua Bernadino Tibério Filho.</descricao>
+  <endereco>Rua João Guiomar Soleira, 405 (Reserva Real - Ribeirão Preto/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>44,45 a 46,58 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_QUARTO_SOLTEIRO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_REA_PRIVATIVA_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_SALO_DE_JOGOS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_KIDS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_PET_PLACE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_GOURMET.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_GAZEBO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_SALO_DE_FESTAS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_PISCINA_DIURNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_PLAYGROUNJD.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_FACHADA_DIURNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_FACHADA_ENTARDECER.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_REA_PRIVATIVA_02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_COZINHA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PPC_SALA.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PH_CASA_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PH_CASA_02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4312/PALCIO_DE_TURIM_PH_IMPLANTAÇO-(8).jpg</item>
+  </galeria_plantas>
+</imovel>

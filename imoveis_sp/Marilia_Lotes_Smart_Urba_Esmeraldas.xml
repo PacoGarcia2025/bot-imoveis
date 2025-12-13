@@ -1,0 +1,35 @@
+<imovel>
+  <titulo>Lotes Smart Urba Esmeraldas</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/marilia/lotes-smart-urba-esmeraldas</link>
+  <cidade>Marilia</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco></endereco>
+  <dormitorios></dormitorios>
+  <area_privativa>160,0 m²</area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+    <item>Playground</item>
+    <item>Pet Place</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F008_PET6b4a1778-8d92-45e0-a567-2fbf2b84cbd4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F010_RESIDENCIAL193a2056-034d-47b6-9333-3d7e2d0e562a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F020_INSERCAO-ACESSOa67c758c-0b93-44c3-9ff7-6c678ce43529.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F009_COMERCIALfdaf359a-d62e-4407-89a5-a07e1322becd.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F012_ASSOCIACAO6cfd18bf-f977-4236-b01c-cd5dfcb78a5e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F011_ENTRADA-TOTEMda082e8d-d59b-4fd5-8507-8a00c01213e5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F013_HORTA1da9bf91-a3c7-4b01-b2ce-1917b41eaee9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F014_PRACA-04-AEREA-GERAL68b32892-2527-45c7-af49-3bfeefe3f908.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F015_PRACA-04-AEREA-COMPLEXOcea00d57-2e63-4301-952b-c04d189839a0.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F016_PRACA04-FIT-QUADRA74bfe836-a5fe-4763-9021-7511eb941f63.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F017_CONVIVENCIA3dc59579-59b2-4251-91c7-b5297071e124.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F018_MANILHAS9699156d-442f-4b1b-ba73-f0a05644bf4c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F019_SKATEc9c6473d-99f1-471a-af58-fbcbf9e24512.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F003_ARQUIBANCADAaa4240fc-d3d3-4a4a-85d4-2f78ad026e44.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F004_TEATROcd48c0d7-fd64-41fa-b18b-005a37035231.jpeg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F002_IMPLANTACAO7e818ce7-73b2-49bc-8572-3945b480041b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4753/MDA_IMG_LT_LEG_IM_F001_IMPLANTACAO-GOOGLE67d9ae8a-fa5b-48e3-b2a5-15a587842e50.jpeg</item>
+  </galeria_plantas>
+</imovel>

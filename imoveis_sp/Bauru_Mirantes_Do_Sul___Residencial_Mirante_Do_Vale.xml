@@ -1,0 +1,39 @@
+<imovel>
+  <titulo>Mirantes Do Sul   Residencial Mirante Do Vale</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-mirantes-do-sul---residencial-mirante-do-vale</link>
+  <cidade>Bauru</cidade>
+  <descricao>OMirante do Vale, integrante do complexoMirantes do Sul, é muito mais do que um lugar para morar: é um convite para viver com mais qualidade, tranquilidade e bem-estar. Localizado ao lado do condomínio residencial Vila Lobos e do Bauru Tênis Clube, você estará cercado por uma infraestrutura completa, com farmácias, escolas, padarias, bancos, comércio e serviços que facilitam sua rotina todos os dias.</descricao>
+  <endereco>Rua 2, s/n - Lote 1, quadra C (Zona Sul - Bauru/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTEDOVALE_QUARTOMAIOR_RF_2024-09-18d2b7a7b1-7ac4-4650-ae66-20858beea4d7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DO_VALE_GAZEBO_RF_200e5b890e-5763-4f10-b7dc-0a5600eaaadc.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DO_VALE_CAMPO_RF_2020b0b31af-7885-41ed-a42b-a1017908ff40.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DO_VALE_FESTAS_RF_2024-09-184862550a-c63e-4290-b908-6f66d222ab07.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DO_VALE_GOURMET_RF_2024-09-18c02b1f8e-9da4-40ae-8d1f-eb54fa31186c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DO_VALE_JOGOS_RF_2024-09-1851a8db82-13ac-49ae-9ff2-793df0c19bc9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DO_VALE_PETPLACE_RF_2024-09-18823b651e-b2ab-4cd2-b418-4d5648ff0474.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DO_VALE_PISCINA_RF_2024-09-18804eaf65-4612-4480-a1de-97c936e8245d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DO_VALE_GUARITA_RF_2024-09-18f9269ea9-55a7-4838-b177-5e146cf03240.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTE_DOVALE_LIVING_RF_2024-09-18fd4ce56d-af3d-4cbc-b740-93c36eb1f879.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PPC_MIRANTEDOVALE_PRIVATIVA_RF_2024-09-18b8bee047-41ec-4f78-8a21-0441ad585407.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/vitrine/MinhaCasaMinhaVida8a4ed5ff-d199-446c-8681-4850de4ac3e1.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PH_MIRANTEDOVALE_003_RF_2024-09-20072001f1-7f16-4efc-8b87-b4ad932aaa0a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4650/PH_MIRANTEDOVALE_202_RF_2024-09-208f876d22-9ccf-48bb-a32c-9e1f5880510c.jpeg</item>
+  </galeria_plantas>
+</imovel>

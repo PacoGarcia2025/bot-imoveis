@@ -1,0 +1,42 @@
+<imovel>
+  <titulo>Residencial Agata</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/araraquara/apartamentos-residencial-agata</link>
+  <cidade>Araraquara</cidade>
+  <descricao>Localização privilegiada! ARegião do Imperadorfoi escolhida especialmente para você que sempre sonhou em morar perto de uma completa infraestrutura comercial, tudo para facilitar o dia a dia de sua família emAraraquara.Próximo ao Savegnago Supermercados, Brizolari Materiais para Construção, Drogaria São Paulo, Colégio Natureza, Agromil Pet's, Bosque do Jardim Botânico, Droga Raia, Ceagesp - Via Expressa, a 10 minutos do Centro e a 15 minutos do Shopping Jaraguá. Entre as principais vias de acesso estão a Av. Mauricio Galli, Av. Manoel de Abreu, Alameda Paulista, Av. Luis Alberto, Av. Maria Antônia Camargo de Oliveira e Av. Estrada de Ferro Araraquara.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>31,25 a 36,88 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIAL_AGATA_GARDEM_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIALAGATA_RF_PISCINA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIALAGATA_RF_PORTARIA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIALAGATA_RF_PISCINA_NOTURNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIALAGATA_RF_PET.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIALAGATA_RF_GOURMET.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIALAGATA_RF_FESTAS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIALAGATA_RF_CHURRASQUEIRA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIALAGATA_RF_FACHADA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RES_AGATA-RF-HALL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIAL_AGATA-VARANDA_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/RESIDENCIAL_AGATA-LIVING_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_APTO_101-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_APTO_110-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_APTO_201-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_APTO_210-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4265/AGATA_IMPLANTACAO-RF.JPG</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,42 @@
+<imovel>
+  <titulo>Residencial Celestial</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-celestial</link>
+  <cidade>Campinas</cidade>
+  <descricao>Próximo a Escola Estadual Escritora Rachel de Queiroz, Supermercados Yeda, Mercearia Família, Mercado Pinheiro, Posto Ipiranga, Atacadão, Parque Linear José Mingone, Posto Shell, Cobasi Campinas Amoreiras, Assaí Atacadista, Havan Campinas, Parque Ecológico Luciano do Valle, Terminal de Ônibus da Vila União. Principais vias: Rodovia dos Bandeirantes, Av. Ruy Rodriguez, Av. das Amoreiras, Av. Carlos Lacerda, Av. Albina Scarassatti Missio.</descricao>
+  <endereco>Rua Manoel de Aquino Pereira, 337 (Região do Jardim Yeda - Campinas/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>41,1 a 43,52 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_APTO201-TR-QUARTO_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_QUADRA_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_CHURRASQUEIRA_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_PISCINA_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_PLAYGROUND_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_PETPLACE_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_GUARITA-ENTARDECER_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_GUARITA-DIURNA_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_APTO203-TR-VARANDA_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_APTO203-TR-SALA_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/MN004322E-FOTO-AREA-RESIDENCIAL-CELESTIAL.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/vitrine/CasaPaulista586eaf04-35cd-4fb8-96a0-f5411bb146bb.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PE_IMPLGERAL_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PH_T2022_12_01_APTO108_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PH_T2022_12_01_APTO201_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PH_T2022_12_01_APTO203_2022_12_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4421/RESIDENCIAL-CELESTIAL_PH_IMPLANTACAO_2022_12_01.jpg</item>
+  </galeria_plantas>
+</imovel>

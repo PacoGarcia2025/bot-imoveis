@@ -1,0 +1,36 @@
+<imovel>
+  <titulo>Residencial Liviero</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-liviero</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Próximo da Av. Anchieta, das faculdades e universidades UNIP Anchieta, Estácio Polo Liviero, Faculdade Anhanguera, dos mercados Assai Atacadista, Carrefour Hipermercado, Extra, dos hospitais Hospital e Maternidade São Luiz, Hospital Veterinário Anhanguera, do Sodimac Anchieta, do Zoológico de São Paulo, do Jardim Botânico de São Paulo, das academias Academia Bluefit Anchieta, Bech Sports São Caetano, do Park Shopping São Caetano e do Instituto Mauá de Tecnologia.</descricao>
+  <endereco>Avenida Carlos Liviero, 102 (Região do Sacomã - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>34,07 a 45,94 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-BENQUERER_PPC-VARANDA_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-LIVIERO_PPC-COWORNKING_VF_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-LIVIERO_PPC-FESTAS_VF_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-LIVIERO_PPC-JOGOS__VF_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-LIVIERO_PPC-KIDS_VF_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-LIVIERO_PPC-FACHADA_VF_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-LIVIERO_PPC-GUARITA_VF_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/BRNQUERER_PPC-QUARTO-MAIOR_16-05-2024.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-BENQUERER_PPC-SALA_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçokids.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/704_8_res_liv_imagem_aerea_IMG1_v3_COM-INSERÇO65e32804-828f-4bdd-9914-079f73f5b678.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/vitrine/CasaPaulista0f010ac2-fb81-4596-8126-2fc6a8a93b40.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/BENQUERER_PH-ISOMETRICA-APTO-103_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/BENQUERER_PH-ISOMETRICA-APTO-201_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/BENQUERER_PH-ISOMETRICA-APTO-204_2024-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4567/RESIDENCIAL-LIVIERO_PH-IMPLANTAÇO_IMPRESSO.jpg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,30 @@
+<imovel>
+  <titulo>Casas Eparque Rio Preto Leste 2</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/casas-eparque-rio-preto-leste-2</link>
+  <cidade>Sao Jose Do Rio Preto</cidade>
+  <descricao>Viver emSão José do Rio Pretoé estar em uma cidade que cresce todos os dias, e oEparque Rio Preto Leste Módulo 2é a sua chance de conquistar uma casa com mais liberdade, conforto e qualidade de vida. Em umcondomínio de casascom fácil acesso às principais vias da cidade, você estará perto de tudo o que precisa: supermercados, escolas, postos de gasolina, parques e uma variedade de comércio e serviços que facilitam o dia a dia.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>47,27 a 48,57 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Playground</item>
+    <item>Fitness</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/EPARQUE-RIO-PRETO-LESTE_PPC-LIVING_VF_2024-05-17.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/EPARQUE-RIO-PRETO-LESTE_PPC-FACHADA-ENTARDECER-02_04-09-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/EPARQUERIOPRETOLESTE_PPCFACHADAENTARDECER01_04-09-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/EPARQUE-RIO-PRETO-LESTE_PPC-SUITE_VF_2024-05-17.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/EPARQUE-RIO-PRETO-LESTE_PPC-PRIVATIVA_06-09-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Pistadecaminhada.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/SR000223C_E-PARQUE_FOTO-AEREA_v2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/vitrine/MinhaCasaMinhaVida31bca032-05fb-4f21-bdbb-4235988acd63.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/EPARQUERIOPRETOLESTE_PPCIMPLANTAÇO3D_04-09-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/EPARQUE-RIO-PRETO_IMPLANTAÇO-(MODULOS)_IMPRESSO_05-09-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4561/EPARQUERIOPRETO_CASA02QUADRA08_IMPRESSO_28-02-2024.jpg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Vale Do Sereno   Residencial Campos Dourados</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-vale-do-sereno---residencial-campos-dourados</link>
+  <cidade>Sorocaba</cidade>
+  <descricao>A 170m da Casa do Cidadão, 220m do Supermercado Dia, 950m da Farmácia Farma Ponte, 1,4m do Supermercado Lopes, 1,0km do Colégio Safari Baby, 2,0km da Escola Municipal Maria de Lourdes Martins Martinez, 2,1km da Escola Est. Geraldo do Espírito Santo, 2,1 km do McDonald's.</descricao>
+  <endereco>Rua Vale do Sereno, JD R/02, nâ 350 (Jardim Vale do Sereno - Sorocaba/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,42 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_VARANDA_RF230aed3b1-dfb9-4164-9e55-e2da3157e5df.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_PISCINA1_RF2_2025-07-08c3fcf4bd-c827-4511-b340-cd237a43be51.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_CHURRASQUEIRA_RF1_2025-07-0856a19514-f56d-407a-83ac-158be63600c4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_PET_RF1_2025-07-08ff071819-4fb5-4a25-b57c-dcb5ce2e0b38.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_PISCINA2_RF1_2025-07-08fea99078-46a1-4a6c-92e8-bf695ff835d5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_GUARITA_RF2_2025-07-084d38a572-6d21-41c4-b84e-20e5ad0a785f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_LIVING_RF2_2025-07-08d728a2ee-0f01-4728-be0d-1e21d113f2bd.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_PRIVATIVA_RF2_2025-07-08ca4e11b6-8a9d-4d00-b538-e701ab382672.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PPC_CAMPOS-DOURADOS_QUARTO-MENOR_RF1_2025-07-0884b6c253-1592-4c3d-ad65-6af628abc4dd.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/1071-18_imagem_aerea75abb3bf-2887-487f-a500-71beca2dd69e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/IMP3D_CAMPOS-DOURADOS_AEREA_RF2_2025-07-08086fb626-bb42-4b5f-957d-6d44262b8d98.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PH_CAMPOS-DOURADOS_UN-102_RF1017fe752-efc7-4ffa-946b-a388d8067a61.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PH_CAMPOS-DOURADOS_UN-201_RF141ed06c0-5ea5-4a6e-96ff-eecdb88edf90.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PH_CAMPOS-DOURADOS_UN-204_RF1d633c7ab-b493-4bca-a7c0-61ec08654c94.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4755/PH_CAMPOS-DOURADOS_IMPLANTACAO_RF_2025-05-27dc70dff0-84f1-4f8b-9535-ae9462a15a40.jpeg</item>
+  </galeria_plantas>
+</imovel>

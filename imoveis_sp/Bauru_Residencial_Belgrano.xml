@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Residencial Belgrano</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-residencial-belgrano</link>
+  <cidade>Bauru</cidade>
+  <descricao>Bauru Shopping, Supermercado Confiança, Parque Água Comprida, Supermercado Atacadão, Farmácias, Padarias, Academias, Restaurantes. Principais vias: Av. Nações Unidas, Av. Jorge Zaiden, Av.Orlando Ranieri, Servmed, Av. Nações Unidas, Av. Jorge Zaiden, Av. Orlando Ranieri.</descricao>
+  <endereco>Rua Otacílio Garms, s/n (Região do Parque Água Comprida - Bauru/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>48,18 a 50,77 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_REA_PRIVATIVA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_VARANDA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_PLAYGROUND-(1).jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_GARRAFO-(2).jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_CHURRASQUEIRA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_PISCINA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_PET_PLACE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_FACHADA_DIURNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_FACHADA_NOTURNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_SALA_COZINHA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_SALA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_QUARTO_SUTE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Garrafãodebasquete.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PPC_IMPLANTAÇO_3D.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PH_APTO_101.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PH_APTO_105.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PH_APTO_201.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4429/RESIDENCIAL_BELGRANO_PH_APTO_203.jpg</item>
+  </galeria_plantas>
+</imovel>

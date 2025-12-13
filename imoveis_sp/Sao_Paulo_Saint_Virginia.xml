@@ -1,0 +1,38 @@
+<imovel>
+  <titulo>Saint Virginia</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-saint-virginia</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Ao lado da Estação Jardim Romano, ao lado da Av. Marechal Tito, 7 min. do Hospital Geral Itaim Paulista, 1 min. Do Hospital dia Hora certa Itaim Paulista, 3 min. da Estação Jardim Romano, 6 min. Do Eng. Manoel Feio, 3 min. da UBS - Jardim das Oliveiras, 3 min. do Sonda Supermercados - Itaim Paulista, 3min. da Avenida Marechal Tito, 5 min. do McDonald's, 5 min. da R. Estevão Ribeiro Garcia, 7min. do Tenda Atacado – Itaquaquecetuba, 13 min. Do Parque Ecológico Mario do Canto, a 1 min. da EE Professor João Prado Margarida.</descricao>
+  <endereco>Rua Monsenhor Salim, nâ 310 (Itaim Paulista - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>34,09 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_APTO-VARANDA_2025_06_20dd944e5b-6907-497f-99dd-0df3d13cfeb8.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_GUARITA-ENTARDECER_2025_06_1883efc26c-5baa-4486-a56c-cf86f35bb7c4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_CHURRRASQUEIRA_2025_06_18f4396994-9755-4934-92e6-273558bfb5ed.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_FESTAS_2025_06_1877b7ce5e-43e2-4d35-aeed-406b05291b84.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_GAZEBO_2025_06_183ec842f4-57bb-451e-b178-8cf12254b455.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_PLAYGROUND_2025_06_18c0a12dcb-06b8-4e23-8851-f8ddf8550f9d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_REDARIO_2025_06_25883d1db5-3de6-4702-94b8-3f9ca11050cf.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_APTO-QUARTO-CASAL_2025_06_2086c4bdbf-161e-4d2a-8e29-d97532473a1c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_APTO-QUARTO-SOLTEIRO_2025_06_18169dad0a-c0f0-434f-83b5-bc1ce981d6de.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_APTO-SALA-OP01_2025_06_20d1c85095-1ae9-44e5-a922-45d0db66a809.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Salãodefesta.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/vitrine/Site-HISHMP9ffb5fbe-0d1a-499d-87bf-184cab0397fe.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PE_IMPLGERAL_2025_06_2534d2331b-6347-4d61-9b3b-974ddd7c0e22.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PH_APTO201_2025_06_20b2740ecd-e149-41ed-848d-b02d27b6eeb7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PH_APTO203_2025_06_201cfc6407-e778-4c2d-a31a-ab3734249c7a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/SAINT-VIRGINIA_PH_IMPLANTACAO_2025_06_18724cef2a-05a8-4626-a465-3ad407cef899.jpeg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,33 @@
+<imovel>
+  <titulo>Residencial Riviera</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-residencial-riviera</link>
+  <cidade>Ribeirao Preto</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Professor André Ricciardi, 570 (JD. Eugenio Mendes Lopes - Ribeirão Preto/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,83 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/RESIDENCIAL-RIVIERA_PE_AREA-PRIVATIVA_2023_12_22_1.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/RESIDENCIAL-RIVIERA_PE_PISCINA_2023_12_22.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/RESIDENCIAL-RIVIERA_PE_GUARITA-NOTURNA_2023_12_22.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/RESIDENCIAL-RIVIERA_PE_QUARTO-CASAL_2023_12_22.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/RESIDENCIAL-RIVIERA_PE_QUARTO-SOLTEIRO_2023_12_22.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçokids.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Garrafãodebasquete.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/vitrine/MinhaCasaMinhaVidae9515ecd-f332-4cdf-af90-c37780d6aedc.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/RESIDENCIAL-RIVIERA_PH_APTO101_2023_12_22.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/RESIDENCIAL-RIVIERA_PH_APTO204_2023_12_22.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4571/RESIDENCIAL-RIVIERA_PH_IMPLANTACAO_2023_12_22.jpg</item>
+  </galeria_plantas>
+</imovel>

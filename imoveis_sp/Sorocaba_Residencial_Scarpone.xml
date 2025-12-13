@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Residencial Scarpone</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-scarpone</link>
+  <cidade>Sorocaba</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Lins, 41 (Jardim Iguatemi - Sorocaba/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>41,34 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_SALA_HR42994e03-f3fb-4596-8192-2d1f61a06a37.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_GUARITA_HR3638755e-3eda-48b8-b6cf-815cc7483aee.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_FESTAS_HR10a11dad-4c5a-4906-8d22-bfa847ff4bc3.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_PISCINA_HRc1986686-b54f-4a49-87a5-2b23a6b572ab.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_PLAY_HR390365be-c7dc-4a46-b838-dd705cba1842.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_CHURRASQUEIRA_HR1ebd3921-ca95-42ad-92dd-6b068caa163a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/RESIDENCIALSCARPONE_PCC_MONTAGEMFRONTALB_FINAL_2024_08_055f562bfc-f645-4dbd-a19a-dcb1c15a3820.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_PRIVATIVA_HRbfa24b0a-2e76-4047-84bb-7506491c2c7f.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_VARANDA_HRfbba0555-fbba-48f8-ba2d-80a91b6d1d2f.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_QUARTOCASAL_HRc902f4d9-b10a-4bc1-9b8a-7bfc01619c5d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/vitrine/MinhaCasaMinhaVida92531931-fd6a-4301-8f36-d6187435811e.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_APTO004_HRc296e9a9-3c77-40a5-a60d-6e8901230257.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_APTO102_HRed948037-bebd-4692-8249-e9e51f703719.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_APTO207_HR970d0bab-3d60-43e6-bd58-94a5b0269c83.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_APTO_205_HRb487fc28-fa39-419e-a5c9-cec53b08f0d7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4625/MRV_RES_SCARPONE_PH_IMPLANTACAO_HRb6902e76-81b5-47cf-9c97-d1a53133e72a.jpg</item>
+  </galeria_plantas>
+</imovel>

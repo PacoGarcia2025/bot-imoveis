@@ -1,0 +1,34 @@
+<imovel>
+  <titulo>Residencial Amaranto</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-amaranto</link>
+  <cidade>Aracatuba</cidade>
+  <descricao>Excelente localização, aRegião do bairro TVfoi escolhido especialmente para facilitar o dia a dia de sua família, pois oferece completa infraestrutura comercial, emAraçatuba.Próximo ao Líder Balança, Zero Grau, Escola EMEB, Supermercado Amigão, Supermercado São José, Requena Eventos, Sindicato Empregados Comércio Araçatuba, UBS TV, a 7 minutos do Zoológico e do Shopping Praça Nova Araçatuba. Entre as principais vias de acesso estão a Av. Prestes Maia, Rua Marcílio Dias, SP-463, Av. Jorge Mellem Rezek e Av. Dois de Dezembro.</descricao>
+  <endereco>Rua Noel Rosa, 719 (Região do bairro TV - Araçatuba/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIALAMARANTO_PPCFACHADAPORTARIANOTURNA_20-08-2020.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIAL-AMARANTO_PPC-POMAR_20-08-2020.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIALAMARANTO_PPCPLAYGROUND_20-08-2020.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIAL-AMARANTO_PPC-PETPLACE_20-08-2020.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIALAMARANTO_PPCGOURMET_20-08-2020.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/20201119090927_AR004819F_MRV_FOTOAEREA_RESIDENCIALAMARANTO_300DPIs_CMYK.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/vitrine/MinhaCasaMinhaVida3e1ce367-0110-4e52-abfd-11ac1c2f7f3b.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIALAMARANTO_PPCIMPLANTAÇO3DGERAL_01-11-2020.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIALAMARANTO_PHAPTO201BL10__09-12-2020.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIALAMARANTO_PHAPTO101BL10_24-08-2020.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIALAMARANTO_PHAPTO102BL10_24-08-2020.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4112/RESIDENCIAL-AMARANTO_IMPLANTAÇO_07-12-2020.jpg</item>
+  </galeria_plantas>
+</imovel>

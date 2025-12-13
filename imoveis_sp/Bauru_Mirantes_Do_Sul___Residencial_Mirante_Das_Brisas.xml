@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Mirantes Do Sul   Residencial Mirante Das Brisas</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-mirantes-do-sul---residencial-mirante-das-brisas</link>
+  <cidade>Bauru</cidade>
+  <descricao>Localizado noParque das Nações, um dos bairros mais valorizados deBauru, você estará a poucos minutos da Av. Getúlio Vargas, com fácil acesso a shoppings, restaurantes, escolas, farmácias e uma ampla oferta de serviços e comércio. A região ainda conta com áreas verdes e parques, ideal para quem busca bem-estar e contato com a natureza, sem abrir mão da mobilidade urbana.</descricao>
+  <endereco>Avenida José Vicente Aiello, s/n (Zona Sul - Bauru/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>37,28 a 57,5 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PPC_MIRANTEDASBRISAS_VARANDA_RF_2025-03-11bd57d250-a091-4d8f-bc61-8eda8fdbc924.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PPC_MIRANTEDASBRISAS_PISCINA_RF_2025-03-204e202a46-2c6c-4ef8-93ca-0c8907ab6f59.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PPC_MIRANTEDASBRISAS_FESTAS_RF_2025-03-1175ea966c-1bed-4eab-8149-d297a162d2c9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PPC_MIRANTEDASBRISAS_GOURMET_RF_2025-03-114ca0cf06-0f16-4246-967d-56127ac1fc7f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PPC_MIRANTEDASBRISAS_BBTENIS_Rf26a7f67-7c99-45da-8251-0bfd63fec28c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PPC_MIRANTEDASBRISAS_LIVING_RF_2025-03-11880849e6-7aa0-42c8-a39d-e937c20c1d4d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PPC_MIRANTEDASBRISAS_PRIVATIVA_RF_2025-03-11c1de557c-7d72-4aff-93f2-1e3aad14671c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PPC_MIRANTEDASBRISAS_QUARTO_CASAL_RF_2025-03-11db59b6b5-7787-4abd-8ae6-d61f2b673128.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/IMP3D_MIRANTEDASBRISAS_AEREA_RF_2025-03-11ce97c85c-8f56-4142-8b2e-c10362cbbd3e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/IMP3D_MIRANTEDASBRISAS_LAZER_RF_2025-03-11ec92b17d-f6b4-4b9e-b47b-660bc53aa11e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PH_MIRANTEDASBRISAS_TERREO05_RF_2025-03-11be88e1ef-99e2-40d1-b864-d86a2a412e0b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PH_MIRANTEDASBRISAS_TIPO02_RF_2025-03-11d7b764ff-4c7c-48c7-aa43-19753c089808.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4723/PH-IMP_MIRANTEDASBRISAS_RF__2025-03-117b29c83b-fb63-490c-a90e-cc2d563fb12d.jpeg</item>
+  </galeria_plantas>
+</imovel>

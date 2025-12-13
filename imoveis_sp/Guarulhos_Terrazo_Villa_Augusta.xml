@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Terrazo Villa Augusta</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/guarulhos/apartamentos-terrazo-villa-augusta</link>
+  <cidade>Guarulhos</cidade>
+  <descricao>Próximo ao Mc Donald's, Assaí Atacadista, Padaria Nova Guarulhos, 5° Distrito Policial, Etec Marthin Luther King, Parque Municipal Júlio Fracalanza, Eniac, Hospital Carlos Chagas, Ponto Garden, Aeroporto Internacional de GRU, Bosque Maia, Shopping Maia e a 15 minutos do Aeroporto de Cumbica. Vias de acesso: Av. Guarulhos, Rua Santa Izabel, Av. Presidente Humberto de Alencar Castelo Branco, Rod. Presidente Dutra, Rod. Fernão Dias, Av. Tiradentes e Av. Paulo Faccini.</descricao>
+  <endereco>Rua Salvador Gaeta, 240 (Vila Augusta - Guarulhos/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>55,11 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_APTO205-VARANDA_2021_12_10.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILA-AUGUSTA_PE_PISCINA-DIURNA_2022_06_15.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_BICICLETARIO_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_FESTAS_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_FITNESS_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_GAZEBO_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_GOURMET_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_JOGOS_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_KIDS_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_PLAYGROUND_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_POMAR_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_PRACA_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_QUADRA-NOTURNA_2021_09_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_PETPLACE_2021_10_08.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_ESTACIONAMENTO_2021_09_20.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PE_IMPLGERAL_2021_12_09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PH_APTO105-TORRE01_2021_10_11.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PH_APTO107-TORRE01_2021_10_08.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PH_APTO205_2021_10_08.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4274/TERRAZO-VILLA-AUGUSTA_PH_APTO207_2021_10_08.jpg</item>
+  </galeria_plantas>
+</imovel>

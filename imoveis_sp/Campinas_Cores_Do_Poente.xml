@@ -1,0 +1,39 @@
+<imovel>
+  <titulo>Cores Do Poente</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-cores-do-poente</link>
+  <cidade>Campinas</cidade>
+  <descricao>Inspirado no conceito de cidades inteligentes, oCores do Poentefoi projetado para ser mais verde, mais acessível e mais conectado ao seu dia a dia. Os apartamentos têm 2 dormitórios com opção de área privativa para você aproveitar ainda mais o seu espaço. Com vaga de garagem e ambientes integrados, é o lar ideal para quem está em busca de praticidade e bem-estar.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,53 a 40,82 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_SALA_COZINHA_FINAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_GUARITA-ENTARDECER_FINAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_CHURRASQUEIRA_FINAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_GERAL-LAZER_FINAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_PARQUE_DAS_CORES_AEREA-01_FINAL.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_PARQUE_DAS_CORES_AEREA-02_FINAL.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_PARQUE_DAS_CORES_CICLOVIA_FINAL.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_PARQUE_DAS_CORES_FITNESS_FINAL.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_PARQUE_DAS_CORES_PLAY_FINAL.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_PARQUE_DAS_CORES_ALAMEDA_FINAL.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_GARDEM_FINAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CVA_CORES-DO-POENTE_QUARTO_FINAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_QUARTO_CASAL_FINAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_AEREA-3D_FINAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_PH_APTO-03_DIAGRAMADO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_PH_APTO-202_DIAGRAMADO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4538/MRV_CORES-DO-POENTE_IMPLANTAÇO_DIAGRAMADA.jpg</item>
+  </galeria_plantas>
+</imovel>

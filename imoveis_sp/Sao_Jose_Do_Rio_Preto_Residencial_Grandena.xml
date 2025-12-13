@@ -1,0 +1,34 @@
+<imovel>
+  <titulo>Residencial Grandena</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-residencial-grandena</link>
+  <cidade>Sao Jose Do Rio Preto</cidade>
+  <descricao>OResidencial Grandenavai te surpreender com apartamento de 2 dormitórios que possuem ambientes integrados. O lazer vai te proporcionar experiências em família e momentos para celebrar com amigos, com área de lazer para toda a família incluindo pista de caminhada, quadra, playground e muito mais.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PE_SALA_2023_05_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PE_GUARITA-ENTARDECER_2023_05_31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PE_QUADRA_2023_05_31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PE_PRIVATIVA_2023_05_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PE_QUARTO_2023_05_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Pistadecaminhada.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/316.14ImagemArea_residencialGrandena_com_insercao.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/vitrine/MinhaCasaMinhaVida652f05f3-dc09-46ba-b46f-a483555c8624.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PE_IMPLGERAL_2023_05_31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PH_BL09_APTO101_2023_05_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PH_BL09_APTO103_2023_05_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PH_BL09_APTO104_2023_05_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4514/RESIDENCIAL-GRANDENA_PH_BL09_APTO201_2023_05_25.jpg</item>
+  </galeria_plantas>
+</imovel>

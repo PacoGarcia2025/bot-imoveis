@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Monte Dos Cedros</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-carlos/apartamentos-monte-dos-cedros</link>
+  <cidade>Sao Carlos</cidade>
+  <descricao>Próximo a SEBRAE - São Carlos, Sacolão e Supermercado Zago, E.M.E.B. Angelina Dagnone De Melo, Boliche São Carlos, Auto Posto Millenium, SESC São Carlos, Posto Shell, Droga Raia,Santa Casa de São Carlos,Hospital Unimed São Carlos, Carrefour Bairro São Carlos - Sta Felícia, E.E. Attilia Prado Margarido, Principais vias: Av. Bruno Ruggiero Filho, Av.Francisco Pereira Lopes, Av. Comendador Alfredo Maffei, Av. Parque Fabber, Av. dos Sanhaços, Av. José Antônio Santilli</descricao>
+  <endereco>Avenida dos Sanhaços, s/n (Região Parque Faber - São Carlos/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>37,28 a 48,03 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTE-DOS-CEDROS_PPC-PET-PLACE_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCVARANDA_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDSCEDROS_PPCSALODEFESTAS_13-12-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDSCEDROS_PPCKIDS_08-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDSCEDROS_PPCCINEMA_08-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCPISCINADIURNA_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCGOURMET_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCFACHADAENTARDECER_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCGUARITADIURNA_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCSALA_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCQUARTOCASAL_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCHOMEOFFICE_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCREAPRIVATIVA_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCVARANDAEXTERNA_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTE-DOS-CEDROS_PPC-POMAR_10-11-2022.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PPCVOOGERAL_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS202_PHAPTO202TORRE01_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PHAPTO102TORRE01_IMPRESSO_13-12-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTEDOSCEDROS_PHAPTO104TORRE01_IMPRESSO_10-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4408/MONTE-DOS-CEDROS_IMPLANTAÇO_IMPRESSO_16-11-2022.jpg</item>
+  </galeria_plantas>
+</imovel>

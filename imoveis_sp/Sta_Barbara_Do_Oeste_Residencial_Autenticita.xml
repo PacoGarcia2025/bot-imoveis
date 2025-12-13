@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Autenticita</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sta-barbara-do-oeste/apartamentos-residencial-autenticita</link>
+  <cidade>Sta Barbara Do Oeste</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>38,69 a 46,74 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_VARANDA_FINAL_2024_08_26a813f603-42c8-4a9c-8fe5-f21c04f24cad.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_GUARITA_FINAL_2024_08_2654d6680a-256e-451b-8666-c3c02ce4d1b7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_CHURRASQUEIRA_FINAL_2024_08_26de875e63-03b0-400c-b378-68f24df97ae7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_FESTAS2PAV_FINAL_2024_08_26684d9907-efbd-4aad-9c2e-e0357e3aeb4e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_FESTAS2PAV_FINAL_2024_08_276cf9b1f3-7bc1-41dc-85ce-757ab27a0640.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_PISCINACAMA_FINAL_2024_08_2614c52db3-b9dc-4aff-b143-240632b7f9ae.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_PISCINACAMAGUA_FINAL_2024_08_272b0842f6-429a-469c-9c6b-d35c46a79ece.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_PLAY_FINAL_2024_08_271807d176-b227-41f9-977b-5a2e9dbdcf28.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_PRIVATIVA_FINAL_2024_08_26cde3700e-e3f7-4afc-97f5-d5b9505f4c26.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_QUARTO_FINAL_2024_08_2692b0aebe-46c3-4ad0-91e2-cb0672a2ea56.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_SALA_FINAL_2024_08_262e27a34a-a8a5-4f48-a627-23d92d4504db.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/832-11_res_autenticita_img_aerea5ac4ac40-d026-452e-8a60-b9fd18a14bb5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/vitrine/MinhaCasaMinhaVida4b806172-7b5f-443c-afaa-601bbd1617c4.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PCC_IMPLA_FINAL_2024_08_26f207c985-adf0-4264-8dbb-b0a0f08c10aa.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PH_APTO001_FINAL_2024_08_26b0f37681-39fc-411e-94b4-603e2adc9a56.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PH_APTO204_FINAL_2024_08_260c76852c-5ffa-4a3b-8d4f-d200430fb504.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PH_APTO208_FINAL_2024_08_26e903f73b-7946-40c0-ba6f-8235652be486.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4637/RESIDENCIALAUTENTICITA_PH_APTO005_FINAL_2024_08_26bf25b8aa-e185-4823-aa81-08cfe84b426e.jpeg</item>
+  </galeria_plantas>
+</imovel>

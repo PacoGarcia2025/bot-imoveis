@@ -1,0 +1,36 @@
+<imovel>
+  <titulo>Residencial Solar Dos Eucaliptos</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-solar-dos-eucaliptos</link>
+  <cidade>Sorocaba</cidade>
+  <descricao>Próximo ao Sato Supermercados, Supermercado Renascer, Supermercado Rede Bom Lugar, ?EM. “Ana Cecília Falcato Prado Fontes, Prof.â”, EE Prof. Wanda Costa Daher, EM Prof. Walter Carretero, Escola SENAI "Luiz Pagliato" - Jardim Santa Cecília. USF + PA 24h Habiteto, USF Ulisses Guimarães, Av. Itavuvu, Rua Antônio Silva Saladino, Av. Dr. Ulysses Guimarães, Alameda do Horto e Terminal Vitória Gégia, facilitando a comunicação com todo município e região metropolitana de Sorocaba.</descricao>
+  <endereco>Rua Amazilia Rodrigues Lea, nº 290 - LOTE II-C (Jardim Eucaliptos - Sorocaba/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,82 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/S-EUCALIPTOS_LIVING_RF_2025-09-12.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/PPC_S-EUCALIPTOS_PET_RF_2025-09-12.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/S-EUCALIPTOS_CHURRASQUEIRA_RF_2025-09-12.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/S-EUCALIPTOS_PLAY_RF_2025-09-12.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/S-EUCALIPTOS_PRIVATIVA_RF_2025-09-12.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/S-EUCALIPTOS_QUARTO-MENOR_RF_2025-09-12.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/S-EUCALIPTOS__2025-09-12.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/S-EUCALIPTOS_GUARITA_RF_2025-09-12.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/solar-dos-eucaliptos-sorocaba/IMP3D_S-EUCALIPTOS_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/PH_SOLAR-DOS-EUCALIPTOS_IMPLANTACAO_RF_2025-09-12.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/PH_SOLAR-DOS-EUCALIPTOS_UN-001_RF_2025-09-12.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/upload/Solar%20dos%20Eucaliptos/PH_SOLAR-DOS-EUCALIPTOS_UN-103_RF_2025-09-12.jpg</item>
+  </galeria_plantas>
+</imovel>

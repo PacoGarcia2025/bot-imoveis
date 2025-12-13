@@ -1,0 +1,26 @@
+<imovel>
+  <titulo>Lotes Alto Sao Fernando</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/paulinia/lotes-alto-sao-fernando</link>
+  <cidade>Paulinia</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco></endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/urba/alto-sao-fernando/DJI_0807(1).jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4581/URBAMAIS-EXTERNA-FACHADALOJAS.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4581/URBAMAIS-EXTERNA-PORTARIA.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4581/URBAMAIS-EXTERNA-RUA.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/urba/alto-sao-fernando/3A932B83-2FD0-40F0-B652-845BBD12272F(1).jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/infraestrutura-completa.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/loteamento-planejado.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Localizaço.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4581/URBAMAIS-EXTERNA-IMPLANTACAO3D.jpeg</item>
+  </galeria_plantas>
+</imovel>

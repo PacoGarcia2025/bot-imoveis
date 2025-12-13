@@ -1,0 +1,32 @@
+<imovel>
+  <titulo>Lotes Jardim Sao Roque</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/lotes-jardim-sao-roque</link>
+  <cidade>Sorocaba</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco></endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_SO-ROQUE_ESCOLA_MUNICIPAL_BOITUVA_SALA_DE_AULA_A2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_AREAS_COMUNS_QUADRA_AREIA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_SO_ROQUE_IMPLANTAÇO_AREA_LOCALIZADA_A2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_AREAS_COMUNS_FITNESS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_AREAS_COMUNS_PLAYGROUND.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_VISTA_RUA_CASAS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_RUA_LOJAS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_SO_ROQUE_CASA_MODELO_A3.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_SO_ROQUE_ESCOLA_MUNICIPAL_BOITUVA_FACHADA_A4-(1).jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA_SO_ROQUE_ESCOLA_MUNICIPAL_BOITUVA_FACHADA_A4.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/infraestrutura-completa.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/loteamento-planejado.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Localizaço.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA-SAO-ROOUE-IMPLANTACAO-06.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4576/URBA-SAO-ROOUE-IMPLANTACAO_GOGGLE.jpg</item>
+  </galeria_plantas>
+</imovel>

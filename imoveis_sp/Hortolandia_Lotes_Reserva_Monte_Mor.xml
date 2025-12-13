@@ -1,0 +1,33 @@
+<imovel>
+  <titulo>Lotes Reserva Monte Mor</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/hortolandia/lotes-reserva-monte-mor</link>
+  <cidade>Hortolandia</cidade>
+  <descricao>Com fácil acesso pela principal via regional SP-101 e previsão de conexão com a Est. Mun. 377, oReserva Monte Moroferece boa mobilidade e praticidade, com pontos de ônibus e ciclovias próximas, tornando seu dia a dia mais fácil e ágil.</descricao>
+  <endereco></endereco>
+  <dormitorios></dormitorios>
+  <area_privativa>160,0 m²</area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Fitness</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/URBA_RESERVA_MONTE_MOR_QUADRA_AREIA_LAZER77853b74-5ddc-4712-9cb9-e857f64bdc77.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/RM000922I_MAPA_AEREO_MONTE_MOR_01cec3c22f-c8a3-4a67-b4c8-de11799cf196.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/URBA_RESERVA_AEREA_CONDOMNIOS_1_E_2a1952b0f-191f-4376-95c5-922a80e092fb.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/URBA_RESERVA_MONTE_MOR_FITNESS_EXTERNOba12412f-1dc6-49f3-8d80-411a3110edbf.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/URBA_RESERVA_MONTE_MOR_PISTA_CAMINHADA_019173edf5-358c-4ef4-985b-eb5112133e7a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/URBA_RESERVA_MONTE_MOR_PISTA_CAMINHADA_02cb9fc13b-b36a-4fc3-a222-84320db91a3e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/loteamento-planejado.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Qualidadeambiental.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Localizaço.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/URBA_RESERVA_MONTE_MOR_ACESSOS_A22d77db4a-3140-4c6c-91a4-c7fb2001608f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/URBA_RESERVA_MONTE_MOR_RUA_CASAS74b7ae8a-b673-48db-a744-575a53a6c906.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4643/URBA_RESERVA_MONTE_MOR_BOULEVARD_A2f6dcf619-7e47-4e6f-ada1-a57ae89a21fd.jpeg</item>
+  </galeria_plantas>
+</imovel>

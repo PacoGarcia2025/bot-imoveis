@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Residencial Casa De Atenas</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/catanduva/apartamentos-residencial-casa-de-atenas</link>
+  <cidade>Catanduva</cidade>
+  <descricao>OResidencial Casa de Atenasestá localizado naRegião do Parque Glória, próximo a rotatória do Chafariz, uma região que oferece infraestrutura comercial para facilitar a vida de sua família no dia a dia emCatanduva.Próximo ao Zoológico Municipal, Supermercado Antunes, Colégio Ressureição Nossa Senhora do Calvário, Teatro Municipal Aniz Pachá, Faculdade Integradas Padre Albino, ETEC Elias Nechar e Drogaria Economia. Entre as principais vias de acesso estão a Av. Daniel Soubhia, Av. Palmares, Rua Sete de Setembro, Av. Theodoro Rosa Filho e Rod. Comendador Pedro Monteleone.</descricao>
+  <endereco>Rua Uruguaiana, 2221 (Região do Parque Glória - Catanduva/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>26,07 a 41,85 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_VARANDA_INTERNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_VARANDA_EXTERNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_GOURMET.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_PLAYGROUND.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_POMAR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_SALO_DE_FESTAS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_PISCINA_DIURNA-.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_FACHADA_DIURNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_REA_PRIVATIVA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_COZINHA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_QUARTO_DE_CASAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_SALA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/RP000322G-Foto-INSERCAO-Casa-de-Atenas_V5.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PPC_IMPLANTAÇO_3D.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PH_APTO_101_BL_02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PH_APTO_202_BL_02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PH_APTO_102_BL_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4333/CASA_DE_ATENAS_PH_IMPLANTAÇO.jpg</item>
+  </galeria_plantas>
+</imovel>

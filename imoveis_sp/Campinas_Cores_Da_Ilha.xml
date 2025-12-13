@@ -1,0 +1,37 @@
+<imovel>
+  <titulo>Cores Da Ilha</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-cores-da-ilha</link>
+  <cidade>Campinas</cidade>
+  <descricao>Próximo ao Supermercado Pague Menos, Pirelli Campinas, Shopping Parque das Bandeiras, Hospital da PUC, Terminal BRT Campo Grande, UPA Dr. Sérgio Arouca, CEI Campo Grande, CEI Vandir Justino da Costa Dias, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Escola Estadual Álvaro Cotomacci, EMEF/EJA Profâ Clotilde Barraquet Von Zuben.</descricao>
+  <endereco>Avenida 2, nâ 95 (Loteamento Parque das Cores - Campinas/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,62 a 40,82 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_INTERNA_GARDEN_%20FINAL_2025.07.31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_INTERNA_QUARTO_%20FINAL_2025.07.31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_INTERNA_SALA_%20FINAL_2025.07.31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_INTERNA_SUITE_%20FINAL_2025.07.31.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_PPC_CHURRASQUEIRA_%20FINAL_2025.07.31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_PPC_PET_%20FINAL_2025.07.31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_PPC_PLAY_FINAL_2025.07.31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_PPC_GUARITA_FINAL_2025.07.31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4783/1119-10_css_dunlop_cores_da_ilha_imagem_aerea_V21b4e7f330-2bdf-4048-a780-ad7f6126b73d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_PH_IMPLANTA%C3%87%C3%83O_FINAL_2025.07.31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_IMPLANTA%C3%87%C3%83O%203D_FINAL_2025.07.31.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Cores%20da%20ilha/MRV_CORES%20DA%20ILHA_PH_TERREO%20001_FINAL_2025.07.31.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/Cores da ilha/MRV_CORES DA ILHA_PH_TIPO 202_FINAL_2025.07.31.jpg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Campo Di Espanha</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-residencial-campo-di-espanha</link>
+  <cidade>Sao Jose Dos Campos</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Avenida José Espiridião dos Santos, nâ 50 (Região do Bosque dos Ipês - São José dos Campos/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>36,54 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Fitness</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_VARANDA_RF_2025-02-04ec773878-9417-48a0-aede-0b48b4149872.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_PISCINA_RF_2025-02-04d9d51cc2-6894-4400-a0f6-5af023b458bc.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_FESTAS_RF_2025-02-04fbf79239-c5da-42dd-b52c-68641cc12997.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_GARRAFAO_RF_2025-02-04b0371ff0-6516-46d6-aae7-2f3079617533.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_GOURMET_RF_2025-02-0492ac7c91-d995-4182-9d5f-ba9cce85f4c6.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_PET_RF_2025-02-04995a6325-2fd4-42ca-abb1-c470f50bd30e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_PLAY_RF_2025-02-04ba281562-9b5a-4a03-b198-de7b53f4f402.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/IMP3D_CAMPODIESPANHA_AEREA_RF_2025-02-04cb6d32e8-b767-424a-bf0f-fac2df0f99db.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_FACHADA_RF_2025-02-0465ab70fe-b5a0-4812-880c-8a5e81091dd4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_LIVING_RFA1_2025-02-17f4b14d2b-5bcc-41e8-833f-79c01ee767bd.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_PRIVATIVA_RF_2025-02-04f68f0b37-5840-4367-9b79-ba518234f55a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_QUARTOMAIOR_RF_2025-02-04eaade8ae-baa9-4181-af82-66e7d1fb1273.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PPC_CAMPODIESPANHA_QUARTO-MENOR_RF_2025-02-040d895694-0805-4f7a-b049-6c6bb92f5bd4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Garrafãodebasquete.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PH_CAMPODIESPANHA_TIPOF10_RFA1_2025-02-179f74242a-f28d-4a7e-b4b4-20a7a06055a5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PH_CAMPODIESPANHA_TIPOF12_RFA1_2025-02-17893c9b58-e9e5-4bad-a8a9-80eeae851120.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4713/PH_CAMPODIESPANHA_IMPLANTACAO_RF_2025-02-04a1151953-091c-4a3f-ba6b-bf9fb78bb5bd.jpeg</item>
+  </galeria_plantas>
+</imovel>

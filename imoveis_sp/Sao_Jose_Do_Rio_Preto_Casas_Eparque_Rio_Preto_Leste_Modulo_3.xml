@@ -1,0 +1,30 @@
+<imovel>
+  <titulo>Casas Eparque Rio Preto Leste Modulo 3</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/casas-eparque-rio-preto-leste-modulo-3</link>
+  <cidade>Sao Jose Do Rio Preto</cidade>
+  <descricao>Morar em uma casa com quintal, conforto e liberdade faz toda a diferença em uma cidade que cresce comoSão José do Rio Preto. Nocondomínio de casasdoEparque Rio Preto Leste Módulo 3, você encontra o espaço ideal para viver do seu jeito: casas de 2 quartos, quintal privativo e duas vagas de garagem na porta, oferecendo a privacidade e o conforto que só um imóvel próprio pode proporcionar.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>43,0 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Playground</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/PPC_EPARQUE-FACHADA-VIA_2025-08-290d5454c6-8a07-4ee0-9b51-4c789c64087d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/PPC_EPARQUE-FACHADA-CASAS_2025-08-2938f7d769-93f3-4217-a2a3-0dbc2a3047b4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/PPC_QUINTAL_EPARQUE_2025-08-29-HReccc28ba-7ba7-48c1-bda5-8881216a4860.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/PPC_QUARTO-CASAL_EPARQUE_MDULO-3_2025-08-295e11ee93-8dac-46e5-ae4b-f126169d3893.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/PPC_SALA_EPARQUE_MDULO-3_2025-08-291593d1fe-6569-4858-9a18-ac23d0b159c9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/PPC_QUARTO-SOLTEIRO_EPARQUE_MDULO-3_2025-08-298d36574c-0864-41b6-89ce-4eaa8c17293e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Quadra.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/SR000223C_E-PARQUE_FOTO-AEREA_v2ece5ff6a-79eb-4f88-93fa-fb9c2d1baae2.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/1001.19_ph_casa_tipo_A_taluded31ebef2-1047-49a4-870f-312efa302ce2.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/1002.19_ph_casa_alteracao_talude6c8433ee-be9d-49f7-a07f-7596bb0a64d3.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4744/1002.19_ppc_alteracao_taludeec1d8532-45cb-437b-ad72-5f1c5fd87be9.jpeg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Don Pagliato</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-residencial-don-pagliato</link>
+  <cidade>Sorocaba</cidade>
+  <descricao>A poucos minutos do Shopping Iguatemi, da Leroy Merlin, do Hospital da Unimed, da Pista de Caminhada do Campolim, do Sesc Sorocaba, do Confiança Supermercados, das instituições Colégio Uirapuru e do Colégio Objetivo e da Rodovia Raposo Tavares.</descricao>
+  <endereco>Rua Luiza de Carvalho, 95 (Jardim Pagliato - Sorocaba/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>43,55 a 44,17 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCAREAPRIVATIVA_05-07-202435ba59bb-5211-4bc3-97bc-53ce9b851d37.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCPORTARIA_2024-07-053ebe8217-3514-4ae7-bd48-ede6bc0bd3c1.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCPISCINA_2024-07-08f70543dc-0833-4bf9-a496-7bed8357fbdc.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCKIDS_2024-07-05c0ad7668-5f12-425f-9e29-1757fb96b15a.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCGOURMET_19-03-20246de10e45-9946-4e44-85db-8a39351d3370.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCSALODEFESTAS_19-03-20248ed30a12-fb71-427e-8f61-4e59ba0a8677.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/780-2_res_don_pagliato_ima_aer_0212b4baad8-9776-4037-a564-348383399a89.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCFACHADA_2024-07-10cf0d6147-c927-40c5-a297-2ad6f683144e.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCSALA_05-07-20243de44140-3a36-49b4-a43a-52e62c1de788.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCSUITE_05-07-2024d0c1a5de-4483-4b64-ad15-b5ca7062abc0.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCQUARTOMENOR_18-03-2024cac427ed-aa74-41ba-a8f5-1c8c339d68b5.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCVARANDA_05-07-20243d92431c-8ea8-46d5-af80-232d40245098.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçokids.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/780-2_res_don_pagliato_ima_aer_0115e986c2e-78f8-4255-b73b-50f17fbb94b4.jpeg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCIMPLANTAÇO3DLAZER_2024-07-052eaafbeb-24a4-47d5-bbd3-73a1c68cce49.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PPCIMPLANTAÇO3D_19-03-202408104b39-ee43-447f-ab52-186bdf799181.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PHTORRE1APTO.108_18-03-2024c1766fd6-8f6e-4376-8007-25797740ecf5.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PHTORRE1APTO.201_18-03-2024ef1ea501-b0be-4f1c-9959-eec732a90221.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4604/RESIDENCIALDONPAGLIATO_PHTORRE1APTO.206_18-03-2024acd668d4-dce8-4f56-94f2-d56e19168431.jpg</item>
+  </galeria_plantas>
+</imovel>

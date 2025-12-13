@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Reserva Sao Jose   Reserva Das Amarilis</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-reserva-sao-jose---reserva-das-amarilis</link>
+  <cidade>Ribeirao Preto</cidade>
+  <descricao>Próximo ao Ribeirão Shopping, Novo Shopping, Restaurante Yakin, Senhora Pizza, Posto Antônio, Associação Nipo Brasileira, Churascaria La Parrila, Parque dos Girassóis, Espaço Uirapuru Eventos e Magic Music Eventos. Entre as principais vias de acesso estão a Av. Dr. Celso Charuri, Rod. Antônio Macado Sant'anna, Rod. Anhanguera, Av. Eugênio Del Lama Netto e Av. Afonso Valera.</descricao>
+  <endereco>Rua Luiz Eduardo Marcondes de Melo, s/n (Região do Recreio das Acácias - Ribeirão Preto/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>37,28 a 48,0 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_VARANDA_FORA_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_VARANDA_DENTRO_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_POMAR_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_PET_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_PLAY_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_PISCINA-TARDE_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_GOURMET_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_KIDS_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_FESTAS_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_JOGOS_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_FACHADA_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_GUARITA_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_PRIVATIVA_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_SALA_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_QUARTO_HR.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/MRV_AMARILIS_IMPLA_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/RESERVADASAMARILIS_PHAPTO108TORRE02_IMPRESSO_26-01-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/RESERVADASAMARILIS_PHAPTO202TORRE02_IMPRESSO_26-01-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/RESERVADASAMARILIS_PHAPTO204TORRE02_IMPRESSO_26-01-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4320/RESERVA-DAS-AMARILIS_IMPLANTAÇO_IMPRESSO_26-01-2023.jpg</item>
+  </galeria_plantas>
+</imovel>

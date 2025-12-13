@@ -1,0 +1,34 @@
+<imovel>
+  <titulo>Residencial Morumbi</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/marilia/apartamentos-residencial-morumbi</link>
+  <cidade>Marilia</cidade>
+  <descricao>Proximidade: Próximo a Supermercado Vivendas, Posto Monte Carlo, Supermercado Nativo, EMEFEI Chico Xavier, Clube de Campo Da ASPAMM, Hospital Beneficente UNIMAR e UNIMAR – Universidade de Marília. Principais vias de acesso: Av. Maria Fernandes Cavalari, Rodovia Transbrasiliana, Av. Higino Muzi Filho e Av. José da Silva Nogueira Júnior.</descricao>
+  <endereco>Rua Amicle Dalmonte, 180 (Região do Parque das Vivendas - Marília/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PE_AREA-PRIVATIVA_2023-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PE_GUARITA_2023-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PE_QUADRA_2023-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PE_CHURRASQUEIRA_2023-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PE_COZINHA-SALA_2023-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Bicicletário.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/vitrine/CasaPaulista187e5258-b25c-4a8c-81a5-a5bcbba8d056.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PE_IMPLANTACAO-3D_2023-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PH_BL01_APTO202_2023-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PH_BL01_APTO103_2023-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PH_BL01_APTO102_2023-05-16.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4465/RESIDENCIAL-MORUMBI_PH_BL01_APTO101_2023-05-16.jpg</item>
+  </galeria_plantas>
+</imovel>

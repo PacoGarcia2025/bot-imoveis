@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Poente Dos Tucanos</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-dos-tucanos</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua 08, s/n° - Quadra AA (Região de Pirituba - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>34,04 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SSC10_QUARTO_MAIOR_EF3a1e6d75-78d5-4e0f-ab90-7c7e3fa652c7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_C10_FACHADA_GUARITA_EFa4c80cea-39e1-426f-82ad-9157b57fffaf.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_CITY_10_PRACA_FOGO_HORTA_EF3f66e536-41d2-432e-94e7-96e2ca79dcd6.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_C10_CHURRASQUEIRA_GAZEBO_EFdf1c7b25-4edf-4fcb-b9d5-8b7cc3ba9ef7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_C10_CHURRASQUEIRA_PLAYGROUND_EF4a5ae460-f6d1-4dd3-b4da-0d0a5c00d960.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SSC10_PISCINA_01_EF78767993-264f-4fcf-bb9b-2c6ca99bc75d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SSC10_PISCINA_02_EFe65c1970-4b6b-458a-9a92-6f69874def51.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SSC10_SALAO-FESTAS_EF338798ae-97d1-4b3b-8629-832412bf5251.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_CITY_10_AEREA_COMPLEXO_EFe95984dd-2636-400f-96be-c7f4baeeae64.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_CITY_10_AEREA_EMPREENDIMENTOS_EFec768d04-140f-4f84-86e0-6dad5e78919a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_CITY_10_FOTOMONTAGEM_COMPLEXO_EF3b79a435-8730-4c90-bcba-62ee2115f696.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_C10_SALA_COZINHA_VARANDA_EFe1ebb5e4-1a55-4a8a-918d-849299dace8c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_C10_VARANDA_EFe6f06e3b-04e7-4b6e-b3c2-b57a3a12a56e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_C10_IMPLANTACAO_LAZER_EFf705b02a-a0e0-44c5-b959-9e8b7382b850.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_CITY_10_IMPLANTACAO_3D_EF3972bab2-3c3c-4e61-b3d1-49756a0a9892.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_FOTOMONTAGEM_3_EMPREENDIMENTOS_EFac0c1708-c3f3-47f7-9ec4-6e1b7df57d64.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_C10_PH_APTO_708_EF64eb4949-d804-4bef-9414-20aa8cf205d8.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4535/MRV_SS_C10_PH_TERREO_PONTA_EFef49d972-8d63-4c52-81ac-516faa808144.jpeg</item>
+  </galeria_plantas>
+</imovel>

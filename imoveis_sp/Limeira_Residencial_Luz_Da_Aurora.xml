@@ -1,0 +1,37 @@
+<imovel>
+  <titulo>Residencial Luz Da Aurora</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/limeira/apartamentos-residencial-luz-da-aurora</link>
+  <cidade>Limeira</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Luiz Bucci, nâ 8 (Vila do Sol - Limeira/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>43,2 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PPC_LUZDAAURORA_VARANDA_RF_2024-10-07e52f5bde-5396-4759-88f1-a418a499a9e2.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PPC_LUZDAAURORA_PORTARIA_RF_2024-10-0845f6ad7e-2f13-485c-ac16-ad6b0b489858.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PPC_LUZDAAURORA_PISCINA_RF_2024-10-071fd7f78f-31bf-41b9-bebe-23a6e2404957.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PPC_LUZDAAURORA_CHURRASQUEIRA_RF_2024-10-07a55abf95-dbcb-4dba-80ce-a36b308d6738.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PPC_LUZDAAURORA_LIVING_RF_2024-10-07d5db6a64-fd2c-4efa-881e-477fed085a06.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PPC_LUZDAAURORA_PRIVATIVA_RF_2024-10-07d0898ffe-719b-457f-9d09-19f824c24c4e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PPC_LUZDAAURORA_QUARTOCASAL_RF_2024-10-071a8cfed5-3369-47dd-864c-778759b6ae84.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/vitrine/MinhaCasaMinhaVida2b5ec4dd-80e8-44da-b529-b78be52bdb6a.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/IMP3D_LUZDAAURORA_LAZER_RF_205ec1d8f2-3178-4d51-b383-073b0cdc5bfe.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/IMP3D_LUZDAAURORA__GERAL_RF_2024-10-0704203e7e-8320-4d16-9811-3ec0a80db71b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PH_LUZDAAURORA_UN-003_RF_2024-10-0722f19a97-0d69-455c-be83-0e73f4083bcc.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PH_LUZDAAURORA_UN-304_RF_2024-10-075e6e964d-05fc-4388-83a3-b5c55d0d00eb.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4648/PH_LUZ_DA_AURORA_IMPLANTACAO-RF_2024-10-076cb4ea00-70fc-4a93-a1af-a6ba6711c0c3.jpeg</item>
+  </galeria_plantas>
+</imovel>

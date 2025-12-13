@@ -1,0 +1,38 @@
+<imovel>
+  <titulo>Palacio De Estocolmo</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-palacio-de-estocolmo</link>
+  <cidade>Ribeirao Preto</cidade>
+  <descricao>São apartamentos de 2 quartos com opções de varanda e área privativa, perfeitos para criar memórias, receber amigos e aproveitar cada instante com tranquilidade. Tudo isso dentro de um condomínio fechado que oferece lazer completo para todas as idades: piscinas adulto e infantil, playground, espaço gourmet, salão de jogos, salão de festas, pet place e bicicletário.</descricao>
+  <endereco>Rua Sergio Approbato Machado, 450 (Reserva Real - Ribeirão Preto/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,83 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALACIO-DE-ESTOCOLMO-AREA-PRIVATIVA_IMPRESSAO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO-FACHADA_TARDE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO_PLAY.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO_PISCINA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO_GOURMET.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALACIO_DE_ESTOCOLMO_QUARTO-CASAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO_QUARTO-SOLTEIRO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO_SALA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/vitrine/MinhaCasaMinhaVida4103f769-7d70-48f5-bbae-9e05710b2bd2.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO_PH-APTO-101-BLOCO-02_IMPRESSO_150-DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO_PH-APTO-201-BLOCO-02_IMPRESSO_150-DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO_PH-APTO-202-BLOCO-02_IMPRESSO_150-DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4605/PALCIO-DE-ESTOCOLMO_IMPLANTAÇO_IMPRESSO_150-DPI.jpg</item>
+  </galeria_plantas>
+</imovel>

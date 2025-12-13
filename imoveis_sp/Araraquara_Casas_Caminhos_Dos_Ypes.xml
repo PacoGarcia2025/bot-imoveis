@@ -1,0 +1,37 @@
+<imovel>
+  <titulo>Casas Caminhos Dos Ypes</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/araraquara/casas-caminhos-dos-ypes</link>
+  <cidade>Araraquara</cidade>
+  <descricao>Próximo a Rodoposto Bambina, Posto West, supermercado Iguatemi, Lago Supermercado, E. E. Prof. Luisa Rolfsen Petrilli, AMBEV – Araraquara, Prefeitura Municipal de Araraquara, Unidade de Saúde da Família Victório de Santi. Principais vias de acesso: Av. Pedro José Laroca, Via de Acesso Engenheiro Ivo Najm, Rodovia Antônio Machado Sant’Anna, Rodovia Washington Luiz, Av. Engenheiro Camilo Dinucci.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>45,47 a 52,34 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_LIVING_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHAO_DOS_YPES_FACHADA_NOITE_RFA1.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_PLAY_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_PISCINA_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_PET_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_GOURMET_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_GARRAFAO_RFA1.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_PORTARIA_RFA1.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_QUARTO_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_QUARTO_CASAL_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_PRIVATIVA_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS-DOS-YPES-CASA-03_RF.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS_DOS_YPES_AEREA_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4427/CAMINHOS-DOS-YPES-IMPLANTACAO_RF.jpg</item>
+  </galeria_plantas>
+</imovel>

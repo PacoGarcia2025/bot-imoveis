@@ -1,0 +1,18 @@
+<imovel>
+  <titulo>Residencial Tulle</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/taubate/apartamentos-residencial-tulle</link>
+  <cidade>Taubate</cidade>
+  <descricao>Avenida Cristino Dias da Cunha, s/n (Jardim Santa Tereza - Taubaté/SP)</descricao>
+  <endereco>Avenida Cristino Dias da Cunha, s/n (Jardim Santa Tereza - Taubaté/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://www.mrv.com.br/content/dam/conhecer/detalhe-do-empreendimento/produtos-breve.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+  </galeria_fotos>
+  <galeria_plantas>
+  </galeria_plantas>
+</imovel>

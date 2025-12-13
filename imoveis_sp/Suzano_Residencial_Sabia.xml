@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Residencial Sabia</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/suzano/apartamentos-residencial-sabia</link>
+  <cidade>Suzano</cidade>
+  <descricao>A sua nova fase de vida começa aqui, noResidencial Sabiá. A sua porta de entrada para criar novas memórias e viver com  mais qualidade de vida. Começando pelos apartamentos de 2 quartos com opção de área privativa. Aqui você encontra plantas inteligentes para você deixar do jeito que sempre sonhou.</descricao>
+  <endereco>Rua Guilherme Garijó, nº 2727 (Jardim Santa Inês - Suzano/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,07 a 39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Fitness</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_FOTO%20INSER.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_AREA%20PRIVATIVA_28-07-2025.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_CHURRASQUE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_GAZEBO_28-.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_PET%20PLACE_.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_PLAYGROUND.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_PRA%C3%87A%20JOGO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_QUADRA%20DES.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_REDARIO_28.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_SALAO%20DE%20FESTAS_28-07-2025.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_SALA%20COZINHA_28-07-2025.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_QUARTO_MAIOR_PRIVATIVA_28-07-2025.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_QUARTO%20MENOR_28-07-2025.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_QUARTO%20MAIOR%20TIPO_28-07-2025.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_MASTERPLAN.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabiá/PCC_RESIDENCIAL%20SABIA_IMPLANTAÇÃO%203D_28-07-2025.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_APTO201_TIPO_25-08-2025.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_APTO103_TE.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/Sabi%C3%A1/PCC_RESIDENCIAL%20SABIA_APTO101_TERREO_25-08-2025.png</item>
+  </galeria_plantas>
+</imovel>

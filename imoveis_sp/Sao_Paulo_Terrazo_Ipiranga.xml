@@ -1,0 +1,39 @@
+<imovel>
+  <titulo>Terrazo Ipiranga</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-terrazo-ipiranga</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Próximo ao Metrô Tamanduateí, Hospital Dom Antônio de Alvarenga, Hospital Monumento, Hospital da Plástica SP, Parque da Independência, Associação Museu de Arte Mágica e Ilusionismo João Peixoto dos Santos, Museu de Zoologia da USP, Mercado Municipal do Ipiranga, Centro Universitário São Camilo, Clube Atlético Ypiranga, Hamburgeria do Seu Osvaldo, Casa Do Grito, Monumento à Independência, S.E.S. Imperador do Ipiranga, G.R.C.E.S. Acadêmicos do Ipiranga, Sesc Ipiranga e Mooca Plaza Shopping. Vias de acesso: Av. Paulista, Av. do Cursino, Av. Ricardo Jafet, Rod. dos Imigrantes, Av. Nazaré, Rua Manifesto, Rua Tabor, Rua Comandante Taylor, Av. Presidente Wilson, Av. das Juntas Provisórias e Rod. Anchieta.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>51,29 a 53,03 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_APTO-VARANDA_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_GOURMET_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_BICICLETARIO_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_FESTAS_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_JOGOS_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_PISCINA_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_PISCINA-NOTURNA_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_PLAYGROUND_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_QUADRA_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_GUARITA-DIURNA_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_APTO-COZINHA_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_APTO-QUARTO_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_APTO-SALA-NOTURNA_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_APTO-SUITE_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PE_IMPLGERAL_2022_02_18.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PH_APTO-FINAL01_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PH_APTO-FINAL03_2022_02_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4227/TERRAZO-IPIRANGA_PH_IMPLANTACAO_2022_02_04.jpg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Residencial Nascente Do Jequitiba</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-nascente-do-jequitiba</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Próximo ao Rodoanel, Marginais Tietê e Pinheiros, Cantaneira Shopping, Tietê Plaza Shopping, Universidades UNIP, Cruzeiro do Sul e Faculdade Faveni, Assai Atacadista, Sonda Supermercado, Carrefour Hipermercado, Upas City Jaraguá e Pirituba e do Hospital Jaraguá e Hospital Geral de Taipas.</descricao>
+  <endereco>Rua Onze, s/n (Região de Pirituba - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>34,09 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_APTO_MEIO_SUBSOLO_TERREO_FINAL_03_EF4522cd6a-62aa-4c5b-88d0-d8d4d68be6a8.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_FACHADA_GUARITA_EF7cb20cb1-d726-488f-b9ee-47753fd6fa0a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/MRV_NASCENTE_DO_JEQUITIBA_PET_PLa1121135-557f-4fa9-a5dc-4200391c5f07.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_CHURRASQUEIRA_EF82451f14-909a-49a5-a25b-0c3835fba771.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_PLAYGROUND_EF6363daae-b375-45f7-b53f-3d631c90ee13.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_SALODEFESTAS_EF01d12a8b-87b1-4efe-91d1-cced4138bdd3.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_SALO-DE-FESTAS_EF8a50e95c-5ab4-4489-b85e-78e4f29c24e8.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_QUARTO_MENOR_APTO_FINAL_03_EF35b4f202-5ca0-4c27-bdb9-6f94dd67b09e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_VARANDA_APTO_FINAL_03_EFba59f680-5733-4ba8-b9d9-3007b4f627c2.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_SALA_COZINHA_APTO_FINAL_03_EF36481e9e-ef3e-4e2e-bc3b-eecf2de191ae.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_QUARTO_MAIOR_APTO_FINAL_03_EFa1ba5bff-1d99-4a1b-b871-51c9fcdb26ee.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_APTO_MEIO_SUBSOLO_TERREO_FINAL_03_BONUS_EFc1f87e60-b6d5-440c-9cf6-2b73aab51903.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_AEREA_GERAd912b25d-3269-4899-8583-afd1a851e263.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_PH_APTO_MEIO_FINAL_03_EFb10a3e8c-f6b1-4f76-831b-8ac13929a1c5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_PH_APTO_MEIO_SUBSOLO_TERREO_FINAL_03_EF40654d10-f452-4776-b5b7-ec273cb30d3d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_PH_APTO_PONTA_FINAL_01_EF9e9168a5-004d-4d7c-adfd-b62904ee82a7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4665/NASCENTE_DO_JEQUITIBA_PH_IMPLANTACAO_EF88eab3a1-1a82-4609-8cc7-a939fec35c5d.jpeg</item>
+  </galeria_plantas>
+</imovel>

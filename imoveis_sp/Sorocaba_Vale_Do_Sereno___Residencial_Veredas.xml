@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Vale Do Sereno   Residencial Veredas</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-vale-do-sereno---residencial-veredas</link>
+  <cidade>Sorocaba</cidade>
+  <descricao>Os apartamentos doResidencial Veredasforam planejados para atender todas as necessidades da sua família: são 2 quartos com varanda ou área privativa nas unidades do térreo, além de opção de suíte. Além disso, o empreendimento oferece uma área de lazer completa com piscinas adulto e infantil, pet place, espaço gourmet, playground, salão de festas e garrafão de basquete, garantindo momentos de diversão e descanso com a segurança de um condomínio fechado.</descricao>
+  <endereco>Rua Doutor Américo Figueiredo, 1648 (Vale do Sereno - Sorocaba/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>43,56 a 55,62 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_PRIVATIVA107_2023_01_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_VARANDA02_2023_01_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDASPE_PETPLACE_2023_01_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_PLAY-QUADRA_2023_04_04..jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_PISCINA_2023_04_04..jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_FESTAS_2023_01_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_CHURRASQUEIRA_2023_01_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_GUARITA-DIURNA_2023_04_04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_SALA_2023_01_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_QUARTO-SOLTEIRO_2023_01_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_CASAL_2023_01_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_VARANDA01_2023_04_03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_PRIVATIVA105_2023_04_03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Garrafãodebasquete.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PE_IMP3D-GERAL_2023_01_27.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PH_T01-APTO105_2023_01_24.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PH_T01-APTO107_2023_01_24.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PH_T01-APTO202_2023_01_24.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4440/RESIDENCIAL-VEREDAS_PH_T01-APTO204_2023_01_24.jpg</item>
+  </galeria_plantas>
+</imovel>

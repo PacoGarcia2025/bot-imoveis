@@ -1,0 +1,37 @@
+<imovel>
+  <titulo>Recanto Da Mata</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-recanto-da-mata</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Aqui, a área de lazer é pensada para todas as idades, com playground e espaço kids para a diversão das crianças, salão de jogos para momentos de descontração e um espaço exclusivo com sala de estudos, perfeito para quem valoriza o conforto e a produtividade de trabalhar ou estudar em casa. Tudo isso em um condomínio fechado que une segurança e tranquilidade para você e sua família.</descricao>
+  <endereco>Rua Jaicos, s/n (Região da USP Leste - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>33,86 a 35,13 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Playground</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_INTERNA_SALA_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_INTERNA_VARANDA_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_PPC_COWORKING_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_PPC_ESPAÇO-FUNCIONAL_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_PPC_KIDS_FINAL_2024.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_PPC_JOGOS_FINAL_2024.02.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVARECANTODAMATA_PPC_TORRE_FI06152990-b674-48bb-b601-89845ddf1b69.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_INTERNA_GARDEN_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_INTERNA_QUARTO_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_INTERNA_QUARTO-CASAL_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçokids.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Saladejogos.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/645.9_rec_mata_ft_aerea_v5_ALTA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4759/vitrine/Site-HISHMP9ffb5fbe-0d1a-499d-87bf-184cab0397fe.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVARECANTODAMATA_IMPLANTAÇO5efc0e3a-ae3f-40c4-938d-4885a03e0b35.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_PH_TRREO-FINAL-10_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_PH_TIPO-SEM-VARANDA-FINAL-12_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVA-RECANTO-DA-MATA_PH_TIPO-VARANDA-FINAL-10_FINAL_2024.03.20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4563/CVARECANTODAMATA_IMPLANTAÇO_5f90b076-2c0f-47ba-9494-b63067b92f31.jpeg</item>
+  </galeria_plantas>
+</imovel>

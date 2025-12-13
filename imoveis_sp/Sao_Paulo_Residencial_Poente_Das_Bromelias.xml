@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Poente Das Bromelias</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-das-bromelias</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Treze, s/n - Quadra S (Região de Pirituba - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>38,86 a 40,38 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_VARANDA_APTO_PONTA_FINAL_12_EFe10bd270-4b55-4c69-b09f-9cd7edba7cbd.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_PISCINA_EFa660d90d-ae02-4443-bed5-8501d5159f1a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_CHURRASQUEIRA_BONUS_EFa6fd9f59-1a38-4854-9580-21a7275dc19e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_CHURRASQUEIRA_EF7e31e22a-0c83-47d7-90fb-64b8c22fd771.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_HOME_OFFICE_EFa3d48def-d927-407b-b423-f0c719d7f616.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_MINI_QUADRA_GOURMET_EF8734be3e-bd3f-4fe8-b78d-e4be0f4133d7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_PETPLACE_EF5077d4df-ed94-4ec5-bd11-250069be4dff.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_PISCINA_BONUS_EF764b743d-5731-4bbc-9716-d376ceef72d5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_PLAYGROUND_EF3df79f44-a461-4159-9777-422d1a2558c1.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_SALAO_DE_FESTAS_EF484e2ee0-e88f-49fc-80d7-5866b9b70aff.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_INSERCAO_EF8592da62-00d2-4b19-82e0-fbcde7a732b9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_GUARITA_EF245caecd-70fe-4191-bfef-a96d1d765614.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_QUARTO_MAIOR_COMUM_MEIO_FINAL_12_EFe47bc0fd-68d1-4366-9a19-e02b52f2ff2b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_QUARTO_MAIOR_SUITE_FINAL_12_EF6fa30705-7c13-4ca0-9ca6-a38e1a965272.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_QUARTO_MENOR_APTO_PONTA_FINAL_12_EFdeb9b10b-ac8d-45c7-be29-bc365b12edfc.jpeg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_IMPLANTAÇO_3D_GERAL_EF51c3a9ff-a0b5-4f57-90a3-865ef4330f33.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_PH_APTO_MEIO_FINAL_10_EFfd9b8b2e-8009-4d69-9138-d0b706c08991.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_PH_APTO_PONTA_FINAL_12_EFb9e653fc-2952-4bad-bb87-f35cd036a0f1.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4702/POENTE_DAS_BROMELIAS_PH_IMPLANTAÇO_EF-(1)e0e64284-2a5c-4cf7-ad8b-238633344b47.jpeg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,27 @@
+<imovel>
+  <titulo>Lotes Reserva Floratta</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/bauru/lotes-reserva-floratta</link>
+  <cidade>Bauru</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco></endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4645/FLO_IMG_LT_EXE_IM_F0017_COMPLEXO-LAZER-NOTURNAdaebf2b1-6f90-4df2-8a8f-4a6d24be21c0.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4645/FLO_IMG_LT_EXE_IM_F004_CAMPO-GRAMADO4657574a-b693-435e-bce9-7e6c0d715317.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4645/FLO_IMG_LT_EXE_IM_F005_QUADRA-DE-AREIA0a18b663-eb8a-4029-86d0-ec8845142ee4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4645/FLO_IMG_LT_EXE_IM_F008_PISCINA-DECKf6d63809-1560-4a7a-a9cf-d760eff7799e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4645/FLO_IMG_LT_EXE_IM_F009_CHURRASQUEIRA6abb3d35-712a-4bec-811f-8aa87ff16a8d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4645/FLO_IMG_LT_EXE_IM_F0014_SALO-INTERNOdde02341-ab56-4979-8c45-f6a52eb5d526.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/infraestrutura-completa.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/readelazerparatodasasidades.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Localizaço.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4645/FOTO-MARCAÇO__compressed7612f3ad-80c3-4a9a-b272-c22219b945c7.jpeg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4645/FLO_IMG_LT_EXE_IM_F002_IMPLANTACAO3D-DRONEe6ab5709-2144-4fce-a425-24c6a474cfab.jpeg</item>
+  </galeria_plantas>
+</imovel>

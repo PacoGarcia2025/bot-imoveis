@@ -1,0 +1,32 @@
+<imovel>
+  <titulo>Lotes Smart Urba Reserva</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/votorantim/lotes-smart-urba-reserva</link>
+  <cidade>Votorantim</cidade>
+  <descricao>O empreendimento está localizado a apenas 1h20? de São Paulo pelas rodovias Castelo Branco? e Raposo Tavares?, a 1h35? do Rodoanel metropolitano?, a 1h? do aeroporto ?de Viracopos? e a 1h30? do aeroporto ? de Guarulhos?.</descricao>
+  <endereco></endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_AVENIDA-CENTRAL-AREA-COMERCIAL.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_PPC-AEREA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-07-AEREA-ETAPA-01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-07-AEREA-ETAPA-02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-07-AREA-LUDICA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-07-PIQUENIQUE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-07-PLAY.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-07-YOGA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-08-ESTAR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-08-MEIA-QUADRA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-08-QUADRA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-08-TEATRO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-10-TRILHA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-12-PET.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_LAZER-14-HORTA.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4613/URBA_SMARTURBARESERVA_CASA-MODELO-PLANTA-HUMANIZADA.jpg</item>
+  </galeria_plantas>
+</imovel>

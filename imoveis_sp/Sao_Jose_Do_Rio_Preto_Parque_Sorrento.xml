@@ -1,0 +1,42 @@
+<imovel>
+  <titulo>Parque Sorrento</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-parque-sorrento</link>
+  <cidade>Sao Jose Do Rio Preto</cidade>
+  <descricao>Viver emSão José do Rio Pretonunca foi tão completo como noParque Sorrento, um condomínio fechado localizado naregião dos Damhasque reúne conforto, segurança e tranquilidade para você e sua família. Os apartamentos de 2 quartos com opção de varanda oferecem ambientes integrados, proporcionando praticidade e funcionalidade para o seu dia a dia.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PPCSALA_17-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PPCVARANDA_17-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PPCESPAÇOKIDS_17-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUE-SORRENTO_PPC-GOURMET_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUE-SORRENTO_PPC-PET-PLACE_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUE-SORRENTO_PPC-PISCINA_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUE-SORRENTO_PPC-QUADRA_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PPCSALODEFESTAS_17-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUE-SORRENTO_PPC-PLAYGROUND_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUE-SORRENTO_PPC-FACHADA_27-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUE-SORRENTO_PPC-GUARITA_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PPCPRIVATIVA_17-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUE-SORRENTO_PPC-QUARTO-MAIOR_27-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçokids.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PPCIMPLANTAÇO3D_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PHISOMETRICAPLANTABLOCO12-APTO101_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PHISOMETRICAPLANTABLOCO12-APTO102_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PHISOMETRICAPLANTABLOCO12-APTO201_19-10-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4526/PARQUESORRENTO_PHISOMETRICAPLANTABLOCO12-APTO202_19-10-2023.jpg</item>
+  </galeria_plantas>
+</imovel>

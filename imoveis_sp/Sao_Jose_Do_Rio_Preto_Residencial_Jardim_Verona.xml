@@ -1,0 +1,42 @@
+<imovel>
+  <titulo>Residencial Jardim Verona</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-residencial-jardim-verona</link>
+  <cidade>Sao Jose Do Rio Preto</cidade>
+  <descricao>Próximo a UBSF Cidade Jardim, a Leroy Merlin, Max Atacadista, UPA Tangará, Casa de Carne D'Paula, Posto Ipiranga, E.E. Dinorath do Vale, Borges Beach Sports e Society, Parque Ecológico Danilo Santos de Miranda, Carrefour, a 10 minutos do Rio Preto Shopping Center. Entre as principais vias de acesso estão a Av. Nações Unidas, Av. Horácio Neves de Azevedo, Rod. Transbrasiliana, Rod. Washington Luiz.</descricao>
+  <endereco>Avenida Potirendaba,4349 (Região Cidade Jardim - São José do Rio Preto/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>32,06 a 48,18 m²</area_privativa>
+  <vagas>2</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_GUARTIADIURNA_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_GOURMET_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_PETPLACE_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_PISCINA_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_PISCINAENTARDECER_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_PLAYGROUND_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_POMAR_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_QUADRAGRAMADA_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_SALAODEFESTAS_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_FACHADAENTARDECER_V02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/SR000722G-FotoaereaJardimVerona.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/vitrine/SBPEd0eac146-441d-460b-9b86-008466cdb7f5.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/RESIDENCIALJARDIMVERONA_IMP3D_GERALDOEMPREENDIMENTO_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/JARDIMDEVERONA_PH_APTO102TORRE01_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/JARDIMDEVERONA_PH_APTO202TORRE01_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/JARDIMDEVERONA_PH_APTO204TORRE01_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4365/JARDIMDEVERONA_PH_APTO104TORRE01_V03.jpg</item>
+  </galeria_plantas>
+</imovel>

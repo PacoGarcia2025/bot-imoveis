@@ -1,0 +1,33 @@
+<imovel>
+  <titulo>Piazza Sirena</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/piracicaba/apartamentos-piazza-sirena</link>
+  <cidade>Piracicaba</cidade>
+  <descricao>A 2 min Rod Geraldo de Barros, a 9 min do Shopping Piracicaba, a 5 min do Atacadão e do Arena Atacado, a 7 min da Klabin S.A., a 10 min do Zoológico, a 5 min do Terminal Vila Sônia, a 7 min do centro comercial do Santa Terezinha, a 2 min da Escola Municipal de Educação Infantil e Ensino Fundamental Prof. Adolfo Basile e a 8 min da UBS Santa Terezinha.</descricao>
+  <endereco>Rua Alcides da Silva, 99. Loteamento Conquista. (Região do Santa Terezinha - Piracicaba/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PE_COZINHA_2023-08-30.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PE_GUARITA_2023-08-30.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PE_IMPLANTACAO-3D-bbb6947e-507e-477c-ae81-d85966e1e577.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PE_SALA_2023-08-30.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PE_QUARTO-MENOR_2023-08-30.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PE_QUARTO-MAIOR_2023-08-30.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PE_AREA-PRIVATIVA_2023-08-30.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Bicicletário.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/vitrine/MinhaCasaMinhaVidad4381f0d-6889-4862-82d0-77aa39366210.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PH_BL12_APTO103_2023-08-30.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PH_BL12_APTO202_2023-08-30.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4595/PIAZZA-SIRENA_PH_IMPLANTACAO_2023-08-30.jpg</item>
+  </galeria_plantas>
+</imovel>

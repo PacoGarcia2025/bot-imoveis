@@ -1,0 +1,25 @@
+<imovel>
+  <titulo>Casas Residencial Green Park</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/botucatu/casas-residencial-green-park</link>
+  <cidade>Botucatu</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa></area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4669/PPC_RESIDENCIALGREENPARK_SALACOZINHA_FINAL_2024.12.19cbc51ab7-9a85-485f-81a8-dd5b347cde8c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4669/PPC_RESIDENCIALGREENPARK_VIA_F21e6f1a4-2d97-432b-b24a-910e59b35ce8.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4669/PPC_RESIDENCIALGREENPARK_QUARTOMENOR_FINAL_2024.12.1928a08f38-07c3-4435-a3fa-4b37d7ba94e3.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4669/PPC_RESIDENCIALGREENPARK_QUARTOMAIOR_FINAL_2024.12.19afd1190a-47a6-4982-b24e-d22cf6ec7c1e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sistemadedescargaéadualflush.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Ar-condicionado.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Medidordeágua.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4669/FOTOINSERCAO_RESIDENCIALGREENf9cf5daf-2c5d-4028-b4ec-512c3660bf5d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4669/vitrine/SBPE0e6a2d59-85eb-4047-b714-8dee43917cea.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+  </galeria_plantas>
+</imovel>

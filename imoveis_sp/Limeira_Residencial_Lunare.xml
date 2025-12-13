@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Residencial Lunare</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/limeira/apartamentos-residencial-lunare</link>
+  <cidade>Limeira</cidade>
+  <descricao>Próximo ao Mercado Savegnago, Mercado Sempre Vale, Mercado Pague Menos, Burguer King, Droga Raia, Shopping Pátio Limeira, UBS Aeroporto Pesqueiro Lago Grande, Posto do Tigrinho, Posto Shell , E.E. Jardim Paineiras, E.E. Gustavo Peccinini, Faculdade Anhanguera.</descricao>
+  <endereco>Avenida Lauro Corrêa da Silva, nâ 3330 (Região de Lauro Corrêa - Limeira/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>37,41 a 45,19 m²</area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_AREA_PRIVATIVA_02_EFac529ca8-bd8d-42f6-abbd-aa18bab852e6.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_PISCINA_EF7c57b65c-aba4-440c-af38-bb6af3cf0d48.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_PET_PLACE_EF4922ee8b-ddb7-414c-9095-c8842c3028b4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_PLAYGROUND_EF3a5aa586-3492-4aee-b05f-77ccc74a5556.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_CHURRASQUEIRA_EF3004c3db-46f8-4521-99e2-dd2cf110a384.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_GUARITA_EFd081484c-350c-4fa0-a497-53b269c5977f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_AREA_PRIVATIVA_01_EF4f1834b5-9a20-491e-9a25-b6526a8d0e72.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_QUARTO_MAIOR_EFb4462a80-c055-42d5-9969-001a7a4d2014.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_QUARTO_MENOR_EF9cdef85a-9385-4741-84c8-20d275c66756.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_SALA_ESTAR_EF9d5d3b8c-ffbf-49df-8911-8cb6025a6d6c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_VARANDA_EF3a62df62-2f42-4ec4-bce2-2fc10a22edf5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_RESIDENCIAL_LUNARE_PH_IMPLANTACAO_EFaccaf5df-b65a-4508-9a28-a94cc55e3c92.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_LUNARE_PPC_IMPLANTACAO_GERAL_EFd54d9bf4-cf08-4085-912c-a4bdad5026b3.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_RESIDENCIAL_LUNARE_PH_APTO_101_EFacba44eb-a3a1-4751-abef-92e94191fb33.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_RESIDENCIAL_LUNARE_PH_APTO_104_EF5429f79e-3082-4f7d-9964-f9931ef34d17.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4775/MRV_RESIDENCIAL_LUNARE_PH_APTO_202_EF56f7d02a-18f6-45cb-85fa-2d49e845d864.jpeg</item>
+  </galeria_plantas>
+</imovel>

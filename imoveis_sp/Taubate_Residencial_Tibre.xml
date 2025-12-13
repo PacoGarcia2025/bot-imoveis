@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Tibre</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/taubate/apartamentos-residencial-tibre</link>
+  <cidade>Taubate</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Oscar Severiano dos Anjos, S/N (Parque Paduan - Taubaté/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>42,42 a 44,31 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_SALACOZINHA_FINAL_2024.11.19df7e4868-b0e4-47c3-af1c-cf7700aadb16.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_PISCINA_FI2a932ac1-5134-4c08-b3fd-61a6fc439806.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_PLAYGROUNDb5b45bf7-1faa-465e-8d28-0f93385bf83a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_PLAYBABY_F4c9538fd-280d-431e-8547-685a9cf8ef90.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_GOURMET_FI07c718f9-52cf-4c26-ae9f-d6c401cb9d56.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_PRACACONV7a8244e1-b795-4438-86e6-a8d08d163ad9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_SALAODEFESTAS_FINAL_2024.11.1999275f99-36eb-4d9e-aa7b-249885d51c78.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/FOTOINSERCAO_RESIDENCIALTIBRE_F2645a272-6191-4ce7-b724-311cdb5d207c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_GUARITA_FINAL_2024.11.1929b361d0-8234-466a-b954-8fa1233830eb.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_VARANDA_FIb61db5ce-4bac-4c04-a1ea-01a475025b88.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_AREAPRIVAcc7338ea-a607-454b-950e-afa92a2d2156.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_QUARTOMAIOR_FINAL_2024.11.19d0729a0f-d323-4fec-9527-2bbd102bd414.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PPC_RESIDENCIALTIBRE_QUARTOMENOR_FINAL_2024.11.198fedbf20-b963-4ed2-9d0a-caab93288070.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PH_RESIDENCIALTIBRE_TORRE01APTO007_FINAL_2024.11.1966627ef3-1611-4b13-bfea-1582dfcdeb19.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PH_RESIDENCIALTIBRE_TORRE01APTO601_FINAL_2024.11.199b512164-27cd-40f7-b536-a9877da43896.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PH_RESIDENCIALTIBRE_TORRE01APTO603_FINAL_2024.11.199be70d26-7f7a-420f-bb7f-5e2a59ea5b2a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PH_RESIDENCIALTIBRE_TORRE01APTO606_FINAL_2024.11.192d22cb2b-592a-4dba-8b9f-04ad7b52efd4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4618/PH_RESIDENCIALTIBRE_IMPLANTACAO_FINAL_2024.11.19074ec830-2bf2-4d9c-8190-6f1ea3a50f6e.jpeg</item>
+  </galeria_plantas>
+</imovel>

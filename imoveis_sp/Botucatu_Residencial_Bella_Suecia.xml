@@ -1,0 +1,36 @@
+<imovel>
+  <titulo>Residencial Bella Suecia</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/botucatu/apartamentos-residencial-bella-suecia</link>
+  <cidade>Botucatu</cidade>
+  <descricao>São apartamentos de 2 quartos em condomínio fechado, todos com vaga de garagem e projeto inteligente para aproveitar cada metro quadrado com funcionalidade. Ideal para quem busca o seu primeiro imóvel ou deseja mais praticidade no dia a dia.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUCIA_PPCREAPRIVATIVA_19-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUCIA_PPCSALA-COZINHA_14-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLA-SUECIA_PPC-PLAYGROUND-PET-PLACE_14-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUECIA_PPCCHURRASQUEIRA_14-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUECIA_PPCGUARITA_14-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUCIA_PPCQUARTOMAIOR_14-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUCIA_PPCQUARTOHOME_14-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/593.10_bella_suecia_foto_aerea(2).webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/vitrine/MinhaCasaMinhaVida8c5fc72f-85ca-4f7b-8b87-7a04e530d159.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUECIA_PPCIMPLANTAÇO3D_14-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUCIA_PHISOMETRICAAPTO201_18-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLASUCIA_PHISOMETRICAAPTO101_14-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4534/BELLA-SUCIA_PH-IMPLANTAÇO_IMPRESSO_18-12-2023.jpg</item>
+  </galeria_plantas>
+</imovel>

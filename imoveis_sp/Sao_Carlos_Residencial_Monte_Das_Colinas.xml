@@ -1,0 +1,38 @@
+<imovel>
+  <titulo>Residencial Monte Das Colinas</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-carlos/apartamentos-residencial-monte-das-colinas</link>
+  <cidade>Sao Carlos</cidade>
+  <descricao>OResidencial Monte das Colinasé a oportunidade que você esperava para conquistar seu primeiro apartamento com qualidade, segurança e praticidade emSão Carlos. Localizado naregião do Jardim Botafogo, o empreendimento oferece uma excelente infraestrutura e fácil acesso aos principais pontos da cidade, além de estar próximo a escolas, comércio, serviços e áreas verdes que tornam o dia a dia mais prático e agradável.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVA-MONTE-DAS-COLINAS_INTERNA_SALA-COZINHA_FINAL_2024.03.01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVA_MONTE-DAS-COLINAS_PPC_PISCINA_TIROFINAL_24.05.11.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVA_MONTE-DAS-COLINAS_PPC_GUARITA_TIROFINAL_24.05.07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVA-MONTE-DAS-COLINAS_INTERNA_QUARTO-KIDS_FINAL_2024.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVA-MONTE-DAS-COLINAS_INTERNA_QUARTO-CASAL_FINAL_2024.03.01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/vitrine/MinhaCasaMinhaVida7ca61a55-e27f-4c5c-902b-2a72de8eae1f.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVA_MONTE-DAS-COLINAS_PPC_IMPLANTACAO-3D_TIROFINAL_24.03.01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVR-MONTE-DAS-COLINAS_PH_APTO-101-TRREO_TIROFINAL_2024.03.01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVR-MONTE-DAS-COLINAS_PH_APTO-202-COM-VARANDA_TIROFINAL_2024.03.01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVR-MONTE-DAS-COLINAS_PH_APTO-203-TIPO_TIROFINAL_2024.03.01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4485/CVR-MONTE-DAS-COLINAS_PH_IMPLANTAÇO_50X50_TIRO-FINAL_2024.04.12.jpg</item>
+  </galeria_plantas>
+</imovel>

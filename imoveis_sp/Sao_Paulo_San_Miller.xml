@@ -1,0 +1,39 @@
+<imovel>
+  <titulo>San Miller</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-san-miller</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Estação Belém, Estação Tatuapé, Estação Carrão, Pça da Sé e Tucuruvi O entorno conta com escolas primarias, creches, escolas estaduais do fundamental ao médio. Próximo de três grandes Faculdade sendo elas a Uninove, Uniban e a Unip. Fácil acesso ao Shopping metrô Tucuruvi.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>34,09 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SM_PPC_QUARTOMAIOR_FINAL686a6682-3a9d-467e-99e0-ca2102042428.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SM_PPC_PORTARIA_FINAL1255b47b6-f3b9-40ae-827e-59fb534bb425.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/freecompress-SM_PPC_PLaygorund_FINAL-16-07-2024db0eff1d-3101-4f3e-9b5b-642fe6e3a763.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/freecompress-SM_PPC_PLAYPET_FINAL-16-07-202476568daa-3ff9-4409-b4ab-2f54d100aac8.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SAN_MILLER_PPC_SALO_DE_FESTASee3e4aaa-d045-4bbb-916a-99048a57c956.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/freecompress-SM_PPC_PRIVATIVA-FINAL-16-07-2024f85a4b1f-65fc-4db1-9595-3857a08ce040.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/freecompress-SM_PPC_SALA_FINAL1dfe87adc-4c03-402b-9257-cc151f1d567b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/freecompress-SM_PPC_QUARTOMENOR_FINAL1cb30cf1-14c2-4d37-8313-fc74fdaedfdf.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SM_PPC_VARANDA_FINAL3240807d-a265-499a-b522-53eeda2499f8.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SAN_MILLER_PH_APTO510_TR01f21e31bf-77f3-4357-a994-62d93f729e44.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SAN_MILLER_PH_APTO512_TR013d1ff568-7eac-4b01-8ad9-fb927d6b7796.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/688-3_san_miller_ft_aerea_77_ins60d20101-8d95-4fa6-927e-b03f2a3b60a5.jpeg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SM_PPC_IMPLANTAÇO3D_FINAL-16-07-20246df68ba3-081a-4b2d-9818-82317bf7aed4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SAN_MILLER_PH_APTO110_TR011bb94f48-cf02-4b5d-aa2e-6f5944785433.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4607/SAN_MILLER_PH_IMPLANTAÇO0ba90dee-a671-413c-86b3-6469603dcacf.jpeg</item>
+  </galeria_plantas>
+</imovel>

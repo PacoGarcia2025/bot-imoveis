@@ -1,0 +1,38 @@
+<imovel>
+  <titulo>Terrazo Morumbi</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-terrazo-morumbi</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Ao lado do Parque Burle Marx, Lojas Americanas, ETEC Abdidas do Nascimento, Cobasi, Colégio Visconde de Porto Seguro, Extra Hipermercado Morumbi, Mc Donald's, Shopping Jardim Sul, Colégio Franciscano Pio XII, Kalunga, a 12 minutos do Morumbi Shopping, a 18 minutos do Shopping Campo Limpo, a 22 minutos da USP, 26 do Shopping Taboão da Serra e a 30 minutos do Parque Ibirapuera. Vias de acesso: Av. Hebe Camargo, Av. Giovanni Gronchi, Marginal Pinheiros, Rua Dr. Luiz Migliano, Av. Francisco Morato, Rua Dep. Laércio Corte e Av. Morumbi.</descricao>
+  <endereco>Rua Coronel Francisco de Oliveira Simões, 9999 (Região do Morumbi - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>50,6 a 52,03 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/terrazo-morumbi-foto-real-do-condominio.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZOMORUMBI_SALA.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_GOURMET_2021_02_15.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_KIDS_2021_02_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_PLAYGROUND_2021_02_15.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_QUADRA_2021_02_15.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_FITNESS-INTERNO_2021_02_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_PISCINA02_2021_02_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_BICICLETARIO_2021_02_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_FESTAS_2021_02_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_GUARITANOTURNA_2021_02_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZOMORUMBI_SUITE.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZOMORUMBI_VARANDA.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçokids.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PE_IMP3DGERAL_2021_03_02.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4176/TERRAZO-MORUMBI_PL_IMPLANTACAO_2021_02_26.jpg</item>
+  </galeria_plantas>
+</imovel>

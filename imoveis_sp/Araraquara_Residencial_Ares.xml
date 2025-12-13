@@ -1,0 +1,37 @@
+<imovel>
+  <titulo>Residencial Ares</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/araraquara/apartamentos-residencial-ares</link>
+  <cidade>Araraquara</cidade>
+  <descricao>Localização privilegiada! ARegião da Vila Xavierfoi escolhida pela MRV para proporcionar facilidade à sua família no dia a dia emAraraquara. Além da excelente qualidade de vida, a região conta com uma completa infraestrutura comercial.Próximo a Nestlé, Savegnago Supermercados, Jaú Serve Supermercados, Droga Raia, Hospital São Francisco Araraquara, Posto BRUnidade de Pronto Socorro Vila Xavier, Escola Estadual Prof. Lysanias de Oliveira Campos, a 7 minutos do centro de Araraquara, do Shopping Lupo. Entre as principais vias de acesso estão a Av. Abdo Najn, Av. Padre José de Anchieta, Av. Alberto Santos Dumont, Rod. Antônio Machado Sant'Anna.</descricao>
+  <endereco>Avenida Mário Zampieri, 1616 (Região da Vila Xavier - Araraquara/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PPC_VARANDA_ENTARDECER.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PPC_VARANDA_DIURNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PPC_CHURRASQUEIRA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PPC_PLAYGROUND.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PPC_POMAR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PPC_FACHADA_ENTARDECER.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PPC_FACHADA_DIURNA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PPC_REA_PRIVATIVA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Pomar.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/20220105080232_AQ002420I_MARCACAO_FOTO_AEREA_RES.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/vitrine/MinhaCasaMinhaVida1905cc31-b594-4be0-bc75-750cc6378224.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PH_APTO_104_BL_03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PH_APTO_101_BL_06.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PH_APTO_202_BL_09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PH_APTO_203_BL_14.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4313/ARES_PH_IMPLANTAÇO.jpg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,30 @@
+<imovel>
+  <titulo>San Toledo</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-san-toledo</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Rua Flor de Carnaval, nâ 190 (Jardim Matarazzo - São Paulo/SP)</descricao>
+  <endereco>Rua Flor de Carnaval, nâ 190 (Jardim Matarazzo - São Paulo/SP)</endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_APTO-VARANDA_2025_02_26e7765588-33e7-4776-b12b-bc341947bacb.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_GUARITA-DIURNA-OP02_2025_02_267fca4ed7-9d33-4cf9-96d0-490fb2b11539.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_FESTAS_2025_02_264c673726-1372-4c6c-a88a-e2a55f1305e9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_FITNESS_2025_02_26fd40fba9-bc96-4236-908e-e57c3c5804a7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_GOURMET_2025_02_26be04851d-9d5f-4766-9d4b-1d7cd99e4f55.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_KIDS_2025_02_2686d18830-5ade-44fe-87b4-539c5f966027.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_PETPLACE-OP02_2025_02_261032804a-81d6-47bf-890e-c56a25a97724.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_PLAYGROUND-OP02_2025_02_26077c0e1c-9c96-419a-b3e2-a19b10fb1b0b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_GUARITA-DIURNA-OP02_2025_02_28036af427-77e4-4409-b8b0-15ec98bd77fc.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_APTO-PRIVATIVA_202ff9e1ac8-fd7f-4e5c-8a41-cbff4db01d44.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_APTO-QUARTO_2025_02_2671918729-6af4-48a0-b2c8-36011c029c70.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_APTO-SALA_2025_02_26b87a0ad3-4b29-4cd4-9232-63f142532a41.jpeg</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4754/SAN-TOLEDO_PE_IMPLGERAL_2025_02_260fdfc9fc-86a2-4be1-afb8-18f5c5872f1e.jpeg</item>
+  </galeria_plantas>
+</imovel>

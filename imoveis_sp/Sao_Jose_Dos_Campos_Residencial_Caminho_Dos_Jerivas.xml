@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Caminho Dos Jerivas</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-residencial-caminho-dos-jerivas</link>
+  <cidade>Sao Jose Dos Campos</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco></endereco>
+  <dormitorios></dormitorios>
+  <area_privativa>35,27 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/11_MRV_CJ_CHURRASQUEIRA_PRACA_GOURMET_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/12_MRV_CJ_QUADRA_DESCOBERTA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/13_MRV_CJ_PLAYGROUND_PLAYBABY_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/14_MRV_CJ_PRACA_DOS_AROMAS_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/16_MRV_CJ_PRACA_DO_FOGO_PIQUENIQUE_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/17_MRV_CJ_ESPACO_LEITURA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/09_MRV_CJ_APTO_PONTA_TIPO_FINAL_01_QUARTO_MENOR_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/08_MRV_CJ_APTO_PONTA_TIPO_FINAL_01_QUARTO_MAIOR_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/07_MRV_CJ_APTO_PONTA_TERREO_FINAL_03_AREA_PRIVATIVA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/06_MRV_CJ_APTO_PONTA_TIPO_FINAL_01_SALA_COZINHA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/MinhaCasaMinhaVidae6122f57-fa95-4233-a53a-1d6f563662dc.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/01_MRV_CJ_PH_IMPLANTACAO_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/02_MRV_CJ_PH_APTO_PONTA_TERREO_FINAL_01_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/03_MRV_CJ_PH_APTO_MEIO_TERREO_FINAL_03_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/04_MRV_CJ_PH_APTO_PONTA_TIPO_FINAL_01_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/jerivas/05_MRV_CJ_PH_APTO_MEIO_TIPO_FINAL_03_EF.jpg</item>
+  </galeria_plantas>
+</imovel>

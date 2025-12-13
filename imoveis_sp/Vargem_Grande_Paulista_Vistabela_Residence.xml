@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Vistabela Residence</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/vargem-grande-paulista/apartamentos-vistabela-residence</link>
+  <cidade>Vargem Grande Paulista</cidade>
+  <descricao>More em uma região com fácil acesso pela Rodovia Raposo Tavares, além de estar pertinho do Colégio Innovare VGP, Animalia Park, Galeria Paineira, UBS- Sebastião Ferreira e Shopping Central Park. Um lugar onde a tranquilidade de viver junto à natureza se conecta com a conveniência e praticidade de estar a poucos minutos da Av. Ivo Mário Isaac Pires.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_PPC_GUARITA_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_PPC_PISCINA_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_INTERNAS_QUARTO%20CASAL_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_INTERNAS_QUARTO%20SOLTEIRO_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_INTERNAS_SALA+COZINHA%20VISTA%2001_2025.08.12.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_INTERNAS_SALA+COZINHA%20VISTA%2002_2025.08.12.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_INTERNAS_VARANDA_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_INTERNAS_ÁREA%20PRIVATIVA_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_PPC_CHURRASQUEIRA_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_PPC_ESPAÇO%20KIDS_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_PPC_PET%20PLACE_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_PPC_PLAYGROUND_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_PPC_QUADRA_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_PPC_SALA%20DE%20JOGOS_2025.08.05.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_NOVA%20FACHADA_PPC_SALÃO%20DE%20FESTAS_2025.08.08.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA%20RESIDENCE_IMP3D_IMPLANTAÇÃO_2025.08.08.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA RESIDENCE_PH_APTO 101 TERREO_2025.08.12.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA RESIDENCE_PH_APTO 201 TIPO_2025.08.12.jpg</item>
+    <item>https://sacdnmrv.blob.core.windows.net/imoveis/imoveis/upload/Vistabela/VISTABELA RESIDENCE_PH_APTO 202 VARANDA_2025.08.12.jpg</item>
+  </galeria_plantas>
+</imovel>

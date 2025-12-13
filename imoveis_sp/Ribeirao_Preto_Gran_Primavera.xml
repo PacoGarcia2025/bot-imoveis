@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Gran Primavera</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-gran-primavera</link>
+  <cidade>Ribeirao Preto</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Antônio Bidio, nº 115 (Região dos Olhos d´Água - Ribeirão Preto/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>47,9 a 50,35 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_PISCINA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_GUARITA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_CHURRASQUEIRA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_ESPACO_KIDS_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_PET_PLACE_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_PLAYGROUND_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_QUADRA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_SALAO_DE_FESTAS_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_SALAO_DE_JOGOS_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_VARANDA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_SALA_COZINHA_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_QUARTO_MENOR_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_QUARTO_MAIOR_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_AREA_PRIVATIVA_02_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_AREA_PRIVATIVA_01_EF.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_FOTOMONTAGEM_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_IMPLANTACAO_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PPC_IMPLTANTACAO_GERAL_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PH_APTO_101_EF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/gran%20primavera/MRV_GRAN_PRIMAVERA_PH_APTO_103_EF.jpg</item>
+  </galeria_plantas>
+</imovel>

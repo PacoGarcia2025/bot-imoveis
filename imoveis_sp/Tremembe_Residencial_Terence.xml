@@ -1,0 +1,34 @@
+<imovel>
+  <titulo>Residencial Terence</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/tremembe/apartamentos-residencial-terence</link>
+  <cidade>Tremembe</cidade>
+  <descricao>Localizado no tranquilo e valorizadoBairro dos Guedes, emTremembé, oResidencial Terenceestá estrategicamente próximo a uma variedade de comércio e serviços essenciais, facilitando o seu dia a dia. Seja para as compras do dia a dia, consultas ou lazer, tudo estará ao seu alcance, além de estar a apenas 10 minutos do centro de Taubaté, conectando você a tudo que precisa.</descricao>
+  <endereco>Principais vias de acesso: Rua José Vicente de Barros e Rodovia Álvaro Barbosa Lima.</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,63 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PPCPRIVATIVA_08-09-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PPCPISCINA_04-09-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PPCCHURRASQUEIRA_06-12-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PPCGUARITA_09-11-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PPCSALAAPARTAMENTOTIPO_03-08-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PPCQUARTOMENOR_03-08-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PPCQUARTOMAIOR_03-08-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESID-TERENCE-FOTO-AEREA.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/vitrine/CasaPaulista98068ea0-8604-4812-8967-79a6a826d300.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PPCIMPLANTAÇO3D_09-11-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PHAPTO103BLOCO11_IMPRESSO_04-09-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIALTERENCE_PHAPTO204BLOCO11_IMPRESSO_04-09-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4502/RESIDENCIAL-TERENCE_PH-IMPLANTAÇO_IMPRESSO_08-11-2023.jpg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Estoril</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-estoril</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Próximo ao Autódromo de Interlagos, Shopping SP Market, Shopping Interlagos, Assai Atacadista, Mercado Atacadista, UPA Pedreira - Dr. César Antunes da Rocha, Hospital Geral de Pedreira, Hospital e Maternidade Vida's, Hospital Maternidade Interlagos. Entre as estações Jurubatuba e Autódromo.</descricao>
+  <endereco>Rua José Martins Coelho, nâ 300 (Interlagos - São Paulo/SP)</endereco>
+  <dormitorios></dormitorios>
+  <area_privativa>37,79 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/INT_ESTORIL_VARANDA_2024.09.036c1606bc-c930-4b34-a658-eebf6e561588.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PPC_ESTORIL_GUARITA_2024.10.08a194a9c2-2693-4ea8-af27-7dd67f339ae7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PPC_ESTORIL_FITNESSDESCOBERTO_2a549f792-cc52-45ed-9b7d-31b21a0d989d.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PPC_ESTORIL_GAZEBO_2024.09.050854d13a-030f-4f8d-8cbe-25104b382b27.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PPC_ESTORIL_GOURMET_2024.08.305a745a8c-b9c8-491e-862e-2f390a887c9c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PPC_ESTORIL_SALODEFESTAS_2024.09.0535d69637-2a87-46fb-ac95-f57def759394.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PPC_ESTORIL_PLAYGROUNDEKIDS_2024.09.05787bb009-6fc1-460d-8938-0fd495e6f475.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PPC_ESTORIL_QUADRACOBERTA_2024.08.30474412c5-ee9c-4f23-9a69-2944533f80c5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/ESTORIL_INSERCAO_2024.11.26ea24a9dc-b932-41c9-8c52-2ed29974e54e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PPC_ESTORIL_GUARITA_2024.09.05d4b04385-b279-4bb6-bbbc-f59ba07574a0.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/INT_ESTORIL_QUARTOMAIOR_2024.08.30dc993c8d-8ee8-42c9-ba6e-c90560f6bb47.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/INT_ESTORIL_QUARTOMENOR_2024.09.0368370727-d45f-4e77-9f9c-ad3dbe32bcf6.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/INT_ESTORIL_SALA_COZINHA_2024.09.0387575959-0f7a-4877-8520-14505a4ed120.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/IMPLANTAÇO_ESTORIL_IMPLANTAÇO_2024.09.039457e576-dfba-41d8-b49a-85889977b898.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PH_ESTORIL_APTO901_2024.09.03c89981ab-3322-40d8-a36c-a23a47ed4848.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PH_ESTORIL_APTO903_2024.09.03089d9cb7-405b-4cf0-abfe-4ee6c8948ff7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PH_ESTORIL_PAVIMENTOTERREO_2024.09.204209c75c-48e6-45ae-bbd9-89505a5abdf5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4656/PH_ESTORIL_IMPLANTAÇO_2024.12.14c5f350e-151f-4038-ab32-5bf729204f20.jpeg</item>
+  </galeria_plantas>
+</imovel>

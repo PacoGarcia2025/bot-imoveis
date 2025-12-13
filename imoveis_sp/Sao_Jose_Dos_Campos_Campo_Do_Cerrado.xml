@@ -1,0 +1,29 @@
+<imovel>
+  <titulo>Campo Do Cerrado</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-campo-do-cerrado</link>
+  <cidade>Sao Jose Dos Campos</cidade>
+  <descricao>A espera acabou! A MRV tem uma super novidade para você que deseja sair do aluguel e morar no que é seu: mais um empreendimento para você conquistar a casa própria.Cadastre-se e saia na frente na conquista do seu MRV na região do Vila Amélia em São José dos Campos. Não perca esta oportunidade e simule agora mesmo o seu financiamento direto com a construtora.</descricao>
+  <endereco>Avenida Aristides José Colla Francisco , nº 151 (Vila das Flores - São José dos Campos/SP)</endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_SALA-COZINHA_FINAL_2025.09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_AREA-PRIVATIVA_FINAL_2025.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_QUARTO-MAIOR_FINAL_2025.09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_QUARTO-MENOR_FINAL_2025.09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_SALAO-DE-FESTAS_FINAL_2025.09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_PLAYGROUND-E-PLAYBABY_FINAL_2025.09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_MINI-QUADRA_FINAL_2025.09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_GAZEBO_FINAL_2025.09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_CHURRASQUEIRA_FINAL_2025.09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PPC_RESIDENCIAL-CAMPO-DO-CERRADO_GUARITA_FINAL_2025.09.jpg</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/PH_CAMPO-DO-CERRADO_IMPLANTACAO_FINAL_2025.09.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/campo-do-cerrado/IMPLANTACAO-3D_RESIDENCIAL-CAMPO-DO-CERRADO_FINAL_2025.09.jpg</item>
+  </galeria_plantas>
+</imovel>

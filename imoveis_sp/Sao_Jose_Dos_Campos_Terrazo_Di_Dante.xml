@@ -1,0 +1,42 @@
+<imovel>
+  <titulo>Terrazo Di Dante</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-dos-campos/apartamentos-terrazo-di-dante</link>
+  <cidade>Sao Jose Dos Campos</cidade>
+  <descricao>Ao lado do Hospital Regional de São José dos Capos e do Hospital Regional, próximo ao Supermercado Coop, Escola Estadual Professora Henriqueta Costa Porto, Praça Natal, Corpo de Bombeiros Zona Sul, Escola de Futebol - Moreiras's Sport, Faculdade Anhanguera, Assaí Atacadista, Carrefour Hipermercado, a 5 minutos do Vale Sul Shopping, Academia Smart Fit, a 15 minutos do Aeroporto Internacional de São José dos Campos. Vias de acesso: Rua Valença, Rod. Presidente Dutra, Rod. Henrique Eroles.</descricao>
+  <endereco>O endereço certo de sua nova vida está na Rua José Cobra e próxima a Linha Verde</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>55,29 a 132,21 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCCOZINHA_02-08-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCVARANDA_02-08-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCSALODEJOGOS_19-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZO-DI-DANTE_PPC-POMAR_15-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZO-DI-DANTE_PPC-QUADRA_19-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCSALODEFESTAS1_19-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCSALODEFESTAS01_17-08-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCPRACA_19-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCPLAYGROUND_15-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCPISCINAENTARDECER_19-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCPISCINADIURNA_15-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCKIDS_19-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCCOWORKING_15-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCCHURRASQUEIRA_15-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCBICICLETARIO_03-08-2022.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PPCVOOGERAL_17-08-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PHAPTO102-TORRE01_15-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PH-APTO103-TORRE01_15-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PHAPTO306-TORRE01_15-07-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4367/TERRAZODIDANTE_PHAPTO307-TORRE1_15-07-2022.jpg</item>
+  </galeria_plantas>
+</imovel>

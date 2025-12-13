@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Alameda Das Andorinhas</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sta-barbara-do-oeste/apartamentos-residencial-alameda-das-andorinhas</link>
+  <cidade>Sta Barbara Do Oeste</cidade>
+  <descricao>OResidencial Alameda das Andorinhas, localizado naregião do Santa Rita em Santa Bárbara d'Oeste, é o endereço ideal para quem busca conforto, segurança e qualidade de vida para toda a família. Aqui, você encontra um condomínio fechado pensado para proporcionar momentos especiais e muito lazer, tudo isso perto de uma infraestrutura completa de comércio que facilita o seu dia a dia.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>38,69 a 46,74 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_APTO-203_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_VARANDA-EXTERNA_hr.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_SALAO-DE-FESTAS_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_piscina-fim-de-tarde_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_GOURMET_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_FACHADA-COM-GUARITA-DIURNA_PLAY_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_FACHADA-COM-GUARITA-DIURNA_PET_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA_DAS_ANDORINHAS_PPC_FACHADA_COM_GUARITA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_FACHADA-fim-de-tarde_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_HALL1_IMPRESSO_150DPI_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDADASANDORINHAS_VARANDA_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_REA-PRIVATIVA_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_QUARTO_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_COZINHA-APTO-203_impresso_150dpi.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_IMPLA-3D_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_PH-APTO-101-TORRE-02_IMPRESSO_150-DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_PH-APTO-107-TORRE-02_IMPRESSO_150-DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_PH-APTO-201-TORRE-02_IMPRESSO_150-DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4382/ALAMEDA-DAS-ANDORINHAS_PH-APTO-204-TORRE-02_IMPRESSO_150-DPI.jpg</item>
+  </galeria_plantas>
+</imovel>

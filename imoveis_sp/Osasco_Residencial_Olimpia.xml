@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Residencial Olimpia</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/osasco/apartamentos-residencial-olimpia</link>
+  <cidade>Osasco</cidade>
+  <descricao>Próximo a Escola Estadual Jardim Maria III, Terminal Santa Maria, Atacadão Cotia – Raposo, Compremais Supermercado, Mercado Raposo, Open Mall The Square, Petz e Ccr Rodo Anel (posto de combustível).Principais vias: Av. Victor Civita, Rodoanel Mário Covas, Rua Sítio do Ribeirão, Estrada Velha de Sorocaba.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,67 m²</area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RD3D_MRV_OLIMPIA_AP504_FINAL8856110e-a846-4851-ae8f-b16d0d4a7273.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/QUARTO_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/play_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/pet_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/kids_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/gourmet_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/pomar_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/festas_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/churrasqueira_HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RD3D_MRV.OLIMPIA_SALAOFESTAS_FIN0c1441a9-826a-48e7-86a5-099d71a7adfc.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RD3D_MRV_PETPLACE_FINAL95eb841f-15b9-4d9a-8ca2-08737b30137f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RD3D_MRV.OLIMPIA_PLAYG_FINAL0dbdbe97-4031-425e-a0f3-40d1f3a67419.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RD3D_MRV.OLIMPIA_CHURRASQUEIRA_F82fff232-ee71-4f0f-8f1c-002fcb820b13.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RD3D_MRV.OLIMPIA_BRINQUEDOTECA_FINALd8fd1af4-1e38-4761-9ba1-b77488e02a0b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RD3D_MRV_OLIMPIA_FOTOINSERÇO_FI86e7fb47-b86a-4d18-949e-1573b94fb2c2.jpeg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/impla-HR.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RESIDENCIAL-OLIMPIA_PH-APTO-504-TORRE-01_IMPRESSO_21-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RESIDENCIAL-OLIMPIA_PH-APTO-102-TORRE-01_IMPRESSO_21-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4436/RESIDENCIAL-OLIMPIA_IMPLANTAÇO_IMPRESSO_21-11-2022.jpg</item>
+  </galeria_plantas>
+</imovel>

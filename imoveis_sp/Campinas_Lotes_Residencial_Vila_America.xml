@@ -1,0 +1,31 @@
+<imovel>
+  <titulo>Lotes Residencial Vila America</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/lotes-residencial-vila-america</link>
+  <cidade>Campinas</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Ucilio Matioli - Santa Rosa, S/N (Parque Vila América (Nova Odessa) - Campinas/SP)</endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_IMG-PETPLACE.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_PLAYGROUND.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_PORTARIA_VISTA1.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVAODESSA_AEREA1.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVAODESSA_AEREA2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_PISCINA_VISTA2.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_PISCINA_VISTA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_IMG-POCKETPARK.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_IMG-PLAYGROUND.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/NOVA_ODESSA_SALA_DE_JOGOS.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/NOVA_ODESSA_SALO-DE-FESTA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_CHURRASQUEIRA_PAVILHO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_IMG-PERGOLADO.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4585/SQUAD_URBA_NOVA-ODESSA_IMG-PERGOLADO-OLHANDO-PICNIC.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/infraestrutura-completa.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+  </galeria_plantas>
+</imovel>

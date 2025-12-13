@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Reserva Dos Lirios</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/ribeirao-preto/apartamentos-reserva-dos-lirios</link>
+  <cidade>Ribeirao Preto</cidade>
+  <descricao>NoReserva dos Lírios, a infraestrutura foi cuidadosamente planejada para transformar o seu dia a dia e proporcionar experiências incríveis. São apartamentos de 2 quartos com opções de varanda e área privativa, que trazem conforto e praticidade para o seu jeito de viver. Além disso, você pode escolher entre 1 ou 2 vagas de garagem para maior conveniência.</descricao>
+  <endereco>Rua Luiz Eduardo Marcondes de Melo, 105 (Recreio das Acácias - Ribeirão Preto/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,83 m²</area_privativa>
+  <vagas>2</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_INTERNA_VARANDA_FINAL_2024_03_15.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_SALA_FINAL_2024-003-08.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_PISCINA_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_KIDS_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_JOGOS_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_FESTAS_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_CHURRASQUEIRA_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_QUADRA_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_GUARITA_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_QUARTO-MENOR_FINAL_2024-03-07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_QUARTO-MAIOR_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/image(5)9321ceb1-c56e-4908-a842-973964d95bca.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçokids.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PCC_IMPLANTAÇO_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PH_BLOCO-02-APTO-103__FINAL_01_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PH_BLOCO-02-APTO-202_FINAL_01_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PH_BLOCO-02-APTO-203_FINAL_2024_03_07.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4555/RESERVA-DOS-LIRIOS_PH_BLOCO-01-APTO-104_FINAL_2024_04_30.jpg</item>
+  </galeria_plantas>
+</imovel>

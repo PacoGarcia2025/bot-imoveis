@@ -1,0 +1,25 @@
+<imovel>
+  <titulo>Lotes Residencial Progresso</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-carlos/lotes-residencial-progresso</link>
+  <cidade>Sao Carlos</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Salomão Schevs,670 (Jardim Cruzeiro do Sul - São Carlos/SP)</endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/urba/progresso/DJI_0079.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/urba/progresso/Imagem-principal.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/urba/progresso/DJI_0022(1).jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/infraestrutura-completa.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/loteamento-planejado.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/readelazerparatodasasidades.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4580/UF000222B_MAPA_FOTO_AEREA_PROGRESSO.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4580/URBA_SALVA_IMPLANTACAO-06.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4580/URBA_SALVA_IMPLANTACAO-06_GOOGLE.jpg</item>
+  </galeria_plantas>
+</imovel>

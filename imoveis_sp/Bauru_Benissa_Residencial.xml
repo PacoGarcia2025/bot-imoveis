@@ -1,0 +1,37 @@
+<imovel>
+  <titulo>Benissa Residencial</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/bauru/apartamentos-benissa-residencial</link>
+  <cidade>Bauru</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Henrique Bianconcini, nâ 215 (Região do Alto Paraíso - Bauru/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPCSALA_BENISSSARESIDENCIAL_2024-09-19e81337b0-c9d6-4601-ae4f-8e046ac73118.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPC_GUARITA_ENTARDECER_BENISSA_RESIDENCIAL_2024-09-1925ce2f32-0c33-41cc-b3ec-896c37efa778.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPC_PLAYGROUND_BENISSA_RESIDENCIb56fc8b7-5622-4862-be26-8cf5d10d6fbf.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPC_PETPLACE_BENISSA_RESIDENCIAL8114bc2b-ea4c-48ce-a83b-042edf73ad11.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPC_CHURRASQUEIRA_BENISSA_RESIDE081da049-89d9-4deb-8293-77e34260d9bf.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPC_INSERÇO_BENISSA_RESIDENCIAL_2024-09-19b24bd5d5-0fed-49e0-9f24-06786ccd3f0a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPCPRIVATIVA_BENISSSARESIDENCIAL_2024-09-19377aec56-030b-44b0-bc05-ed92f5af9024.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPCQUARTOCASAL_BENISSSARESIDENCIAL_2024-09-19e32d6c96-4eef-4054-bca5-5f5478235822.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/vitrine/MinhaCasaMinhaVidae424fd43-ecba-4e59-aa94-604b4c3c3735.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PPC_IMPLANTAÇO_3D_BENISSA_RESIDENCIAL_2024-09-195da12193-1a3a-4092-9c82-1bc8c19d49bb.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PH_BLOCO01_APTO03_BENISSARESIDENCIAL_2024-09-19d0dc527a-0d49-454a-a6a4-c460bc13fe48.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PHBLOCO04_APTO402_BENISSARES596cbcab-6190-4bc5-97c8-c75d0aa760f2.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4651/PH_IMPL_BENISSA_RESIDENCIAL_19-09-20249a68f1b7-46f3-42ba-b2c3-98f3c0548f8b.jpeg</item>
+  </galeria_plantas>
+</imovel>

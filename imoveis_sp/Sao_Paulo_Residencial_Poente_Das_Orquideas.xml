@@ -1,0 +1,41 @@
+<imovel>
+  <titulo>Residencial Poente Das Orquideas</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-poente-das-orquideas</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua 12, Quadra X - Lote 01 ao 23 (Região de Pirituba - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>26,63 a 35,87 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_COZINHA_SALA_EF_2024_03_19.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_PISCINA_EF_2024_03_19.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_SALO_DE_FESTAS_EF_2024_03_19.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_GOURMET_FESTAS_PLAY_EF_2024_03_19.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_CHURRASQUEIRA_PLAY_EF_2024_03_21.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_PISCINA_ANG_02_EF_2024_03_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_VARANDA_EF_2024_03_19.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_QUARTO_MENOR_EF_2024_03_19.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_QUARTO_MAIOR_EF_2024_03_19.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/imoveis/mcmv-his-cp.jpg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_IMPLANTACAO-GERAL_EF_2024_03_26.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_PH_TIPO_COM_VARANDA_EF_2024_03_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_PH_TERREO_FINAL_01_EF_2024_03_20.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_PH_APTO_FINAL_09_EF_2024_03_25.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4569/POENTE-DAS-ORQUIDEAS_PH_IMPLANTAÇO_EF_2024_03_20.jpg</item>
+  </galeria_plantas>
+</imovel>

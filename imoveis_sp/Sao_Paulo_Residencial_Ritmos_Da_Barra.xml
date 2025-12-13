@@ -1,0 +1,36 @@
+<imovel>
+  <titulo>Residencial Ritmos Da Barra</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-residencial-ritmos-da-barra</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>HIS-2: unidades 102, 104, 106, 108, 110, 112 ,201 a 212, 301 a 312, 401 a 412, 501 a 512, 601 a 612, 701 a 712, 801 a 812, 901 a 912, 1001 a 1012, 1101 a 1112, 1201 a 1212, 1301 a 1312, 1401 a 1412, 1501 a 1512, 1601 a 1612, 1701 a 1712, 1801, 1802, 1806 a 1812, 1901, 1902, 1911 e 1912, 2001, 2002, 2011 e 2012, 2101, 2102, 2111 e 2112, 2201, 2202, 2211, 2212, 2301, 2302, 2311, 2312, 2401 e 2402.R2V: demais unidades não relacionadas acima</descricao>
+  <endereco>Rua Professor Walter Lerner, 235 (Barra Funda - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>35,13 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Salão de Festas</item>
+    <item>Fitness</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_COZINHA_2023-07-05.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_VARANDA_2023_07_05.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_CHURRASQUEIRA_2023-07-05.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_COWORKING_2023-07-05.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_CROSSFIT_2023-08-03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_FACHADA_2023-08-03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_GUARITA_2023-08-03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_SALA-2023_08_03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE-AREA-PRIVATIVA_2023-08-03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_QUARTO-MAIOR_2023-07-05.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/177_8_RITMOSDABARRA_FOTOAEREA_INSERCAO_baixa.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4511/vitrine/Site-HIS83ecd2ba-2a0b-4c91-9fc3-f812966289d7.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PE_IMPLANTACAO-3D_2023-08-03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PH_TORRE01-APTO109_2023-07-05.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PH_TORRE01-APTO204_2023-07-05.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PH_IMPLANTACAO_2023-08-03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4468/RITMOS-DA-BARRA_PH_LAZER_2023-08-03.jpg</item>
+  </galeria_plantas>
+</imovel>

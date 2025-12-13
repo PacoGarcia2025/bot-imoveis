@@ -1,0 +1,38 @@
+<imovel>
+  <titulo>Residencial Canto Da Mata</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-canto-da-mata</link>
+  <cidade>Campinas</cidade>
+  <descricao>OResidencial Canto da Mataé o lugar ideal para quem busca conforto, praticidade e bem-estar. Localizado naRegião do Matão, você estará perto de tudo que facilita o dia a dia: supermercados, escolas, farmácias, postos de gasolina e comércio em geral, além de acesso rápido às principais vias da cidade.</descricao>
+  <endereco>Rua Um, 435 (Região do Matão - Campinas/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>36,86 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MRV_CANTODAMATA-SALACOZINHA_IMPRESSAO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MRV_CANTODAMATA-PISCINA_IMPRESSAO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MRV_CANTODAMATA-FESTA_IMPRESSAO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MRV_CANTODAMATA-GOURMET_IMPRESSAO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MRV_CANTODAMATA-PLAY_IMPRESSAO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MRV_CANTODAMATA-FACHADA_TARDE_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MRV_CANTODAMATA-AREAPRIVATIVA_IMPRESSAO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MARCACAO_AEREA_CANTO_DA_MATA_V02(2).webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/vitrine/MinhaCasaMinhaVidad6919e9e-2ba9-49d1-a9e5-d8d2b5d1f87b.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/MRV_CANTODAMATA-IMPLA3D_IMPRESSAO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/CANTODAMATA_PHAPTO05TORRE01_IMPRESSO_12-07-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/CANTODAMATA_PHAPTO07TORRE01_IMPRESSO_12-07-2023.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/CANTODAMATA_PHAPTO201TORRE01_IMPRESSO_150DPI.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4484/CANTODAMATA_PHAPTO203TORRE01_IMPRESSO_150DPI.jpg</item>
+  </galeria_plantas>
+</imovel>

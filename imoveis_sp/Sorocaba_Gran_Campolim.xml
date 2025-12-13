@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Gran Campolim</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sorocaba/apartamentos-gran-campolim</link>
+  <cidade>Sorocaba</cidade>
+  <descricao>Próximo a Shopping Iguatemi Esplanada, Assaí Atacadista, Tauste Campolim, Mercadão Campolim, Leroy Merlim Sorocaba, Atacadão Sorocaba e Decathlon Sorocaba. Pricipais vias de aesso: Rod. Raposo Tavares, Av. Professor Izoraida Marques Peres, Av. Gisele Constantino, Rod. Votoramtim Piedade e Av. Dr. Armando Pannunzio.</descricao>
+  <endereco>Rua Augusto Lippel, 1600 (Parque Campolim - Sorocaba/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>45,41 a 67,45 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/gran-campolim-sorocaba/GRAN_CAMPOLIM_SUITE-CLOSET_RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/gran-campolim-sorocaba/CAMPOLIM_VARANDA_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/CAMPOLIM_PISCINATARDE_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/gran-campolim-sorocaba/CAMPOLIM_PISCINA-DIA_RF1_2025-10-21.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/CAMPOLIM_PET_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/CAMPOLIM_KIDS_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/CAMPOLIM_GOURMET_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/CAMPOLIM_FITNESS_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/CAMPOLIM_FESTAS_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/gran-campolim-sorocaba/CAMPOLIM_FACHADA_RF1_2025-10-21.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/CAMPOLIM_LIVING_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/gran-campolim-sorocaba/CAMPOLIM_PRIVATIVA_107_RF1_2025-10-21.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/gran-campolim-sorocaba/CAMPOLIM_SUITE_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload-conhecer/gran-campolim-sorocaba/CAMPOLIM_QUARTO_RF.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/CAMPOLIM_AEREA_RFA1.JPG</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/GRAN-CAMPOLIM-APTO-05-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/GRAN-CAMPOLIM-APTO-07-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/GRAN-CAMPOLIM-APTO-202-RF.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4479/GRAN-CAMPOLIM-APTO-204RF.jpg</item>
+  </galeria_plantas>
+</imovel>

@@ -1,0 +1,35 @@
+<imovel>
+  <titulo>Residencial Laranjeiras</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/limeira/apartamentos-residencial-laranjeiras</link>
+  <cidade>Limeira</cidade>
+  <descricao>A área de lazer é um verdadeiro convite para aproveitar os melhores momentos da vida: espaço gourmet com churrasqueira para reunir amigos, playground para a diversão das crianças e um pet place especialmente dedicado aos seus bichinhos de estimação.</descricao>
+  <endereco>Rua Iolanda Cordeiro Rigon (Jardim Manacá - Limeira/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>37,52 a 48,91 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_INTERNAS_VARANDA_V04.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_PPC_PLAYGROUND_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_PPC_CHURRASQUEIRA_2024_02_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_PPC_FACHADAAMANHECER_2024_02_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_INTERNAS_SALA_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_INTERNAS_QUARTOMAIOR_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_INTERNAS_QUARTOMENOR_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/50411-ImagemArea-ResidencialLaranjeiras.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/vitrine/CasaPaulistafd7842d7-0425-4236-b66a-bb3f4bae1ee6.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_IMP3D_GERALDOEMPREENDIMENTO_2024_02_01.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_PH_APTO205TORRE01_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_PH_APTO107TORRE01_V03.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4519/RESIDENCIALLARANJEIRAS_PH_IMPLANTACAO-EDIFICIOGARAGEM_V03.jpg</item>
+  </galeria_plantas>
+</imovel>

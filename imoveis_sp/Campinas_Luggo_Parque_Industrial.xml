@@ -1,0 +1,39 @@
+<imovel>
+  <titulo>Luggo Parque Industrial</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-luggo-parque-industrial</link>
+  <cidade>Campinas</cidade>
+  <descricao>Próximo a Campinas Shopping, Posto de Gasolina, Drogasil, Supermercado 5 Estrelas, Atacadão, Unimart Shopping , McDonald’s, Bosque dos Guarantãs, Praça de Esportes São Bernardo, Parque Linear Vila Garden MRV, Colégio Anglo Campinas, Escola Vitor Meireles. Fácil Acesso ao Centro de Campinas, Av das Amoreiras, Av Prestes Maia, Rodovia Anhanguera e Transporte coletivo (Terminal Campinas e BRT Estação Parque Industrial).</descricao>
+  <endereco>Rua João Batista Alves de Sousa, 735 (Parque Industrial - Campinas/SP)</endereco>
+  <dormitorios></dormitorios>
+  <area_privativa></area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0071_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0005_Luggo_Drone_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0015_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0009_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0022_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0014_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0025_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0076_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0058_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0035_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0083_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0064_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0049_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0088_Luggo_04.05.23.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/0052_Luggo_04.05.23.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/LUGGO-FLORENCA_PE_T02-APTO02_2021_10_27.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/LUGGO-FLORENCA_PE_T02-APTO07_2021_10_27.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/LUGGO-FLORENCA_PE_T02-APTO04_2021_10_27.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4472/LUGGO-FLORENCA_PE_T02-APTO01_2021_10_27.webp</item>
+  </galeria_plantas>
+</imovel>

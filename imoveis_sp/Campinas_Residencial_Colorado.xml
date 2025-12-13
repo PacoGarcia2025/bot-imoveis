@@ -1,0 +1,35 @@
+<imovel>
+  <titulo>Residencial Colorado</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/campinas/apartamentos-residencial-colorado</link>
+  <cidade>Campinas</cidade>
+  <descricao>Próximo ao Posto Ipiranga, Atacadão, Parque Linear José Mingone, Posto Shell, Cobasi Campinas Amoreiras, Assaí Atacadista, Havan Campinas, Escola Estadual Professor Lais Bertoni Pereira. Principais vias: Rodovia dos Bandeirantes, Av. Ruy Rodriguez, Av. das Amoreiras, Av. Carlos Lacerda e Av. Albina Scarassatti Missio.</descricao>
+  <endereco>Rua João Moreno, 31 (Região do Jardim Yeda - Campinas/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>36,87 a 39,96 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Playground</item>
+    <item>Pet Place</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDENCIALCOLORADO_PPCQUARTOMENOR_29-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDENCIALCOLORADO_PPCFACHADAENTARDECER_09-12-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDENCIAL-COLORADO_PPC-PLAYGROUND_09-12-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDENCIALCOLORADO_PPCGUARITADIURNA_09-12-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDENCIAL-COLORADO_PPC-PRIVATIVA_08-12-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDENCIALCOLORADO_PPCSALA_08-12-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDENCIALCOLORADO_PPCQUARTOMAIOR_29-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Elevador.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/MN004522J-FOTO-AREA-RESIDENCIAL-COLORADO.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/vitrine/CasaPaulistaaf3d5508-8710-442d-8260-bb66386e4b97.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDENCIALCOLORADO_PPCVOOGERAL_09-12-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDÊNCIA-COLORADO_PH-APTO-101-TORRE-01_29-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDÊNCIA-COLORADO_PH-APTO-103-TORRE-01_29-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDÊNCIA-COLORADO_PH-APTO-202-TORRE-01_29-11-2022.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4420/RESIDÊNCIA-COLORADO-_PH-APTO-204-TORRE-01_29-11-2022.jpg</item>
+  </galeria_plantas>
+</imovel>

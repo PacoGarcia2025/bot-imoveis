@@ -1,0 +1,37 @@
+<imovel>
+  <titulo>Residencial Atlanta</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/aracatuba/apartamentos-residencial-atlanta</link>
+  <cidade>Aracatuba</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Piscina</item>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_CHURRASQUEIRA_RF_2024020166ce5c04-cae4-4342-af37-e9d2f87475c1.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_GUARITA_RFA1A1_20240223a98d9f37-1b26-4cf9-b63a-6079679a4650.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_FOTOMONTAGEM_RF_2024-08-02_compressed(1)_compressed-min44e38c0e-87dd-44d8-9669-ee57a1101f9f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_AEREAGERAL_RFA1_20240223b460c834-ada9-494f-8c9e-067a5ad11c14.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_LIVING_RF_2024012439bc7fb6-4a16-4b9b-b65f-80537ac957c5.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_QUARTOINFANTIL_RF_20240124c9df6181-6a55-4be9-8efb-6b20015266d2.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_QUARTO_CASAL_RF_20240124c2b5a818-ac0a-4d41-be5d-21bf763015a1.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_PRIVATIVA-MEIO_RFA1_20240201159ebc50-1ebd-4da7-901d-1570b13d741b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_BEACHTENIS_RFA1_20240223fe79f290-a4a1-4b4b-badf-306f834b1af1.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Piscina.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4654/vitrine/CasaPaulistaaf5bf9cd-149d-40be-a721-e89ee6974fe5.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_PH-101_RF_202401258d22a471-1f85-4f1f-8149-d8df8f4523b1.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_PH-201_RF_202401244b4c3c93-f558-4e06-b816-d43df852a7b6.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4564/ATLANTA_IMPLANTACAO-RFA1_20240201967d0936-147c-4374-a9b7-7ef0b31d2151.jpeg</item>
+  </galeria_plantas>
+</imovel>

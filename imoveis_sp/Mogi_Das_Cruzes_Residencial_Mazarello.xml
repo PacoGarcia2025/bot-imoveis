@@ -1,0 +1,40 @@
+<imovel>
+  <titulo>Residencial Mazarello</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/mogi-das-cruzes/apartamentos-residencial-mazarello</link>
+  <cidade>Mogi Das Cruzes</cidade>
+  <descricao>Supermercado Alabarce, do Centros Municipais de Programas Educacionais (CEMPRE), do Centro Esportivo Bunkyo, da Escola Estadual Professor Benedito Borges Vieira, da APAE, do Nucleo de Equoterapia, da Escola Municipal Professora Florisa Faustino Pinto kaizen sport beach tenis e do SINAJ aqua fitenss.</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,64 a 40,83 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PPC_QUARTOMENOR_FINAL_2024.06.03e5e98abc-7f50-4f17-957b-e6092ad67e43.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIAL-MAZARELLO_PPC_PLAYGROUND_FINAL_2024.06.03b4a40009-24f1-408e-9dfe-d94936f1d646.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIAL-MAZARELLO_PPC_SALAO-DE-FESTAS_FINAL_2024.06.11dd328eff-0a56-4804-8212-f2807b551ea6.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PPC_QUADRAec79a3f4-3400-4cc8-88d0-0733dde4d005.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PPC_CHURRASQUEIRA_FINAL_2024.06.03fd770126-0fb0-445e-85d6-200bef929617.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_INSERCAO_F2c41952c-ca04-4088-be0b-191927fe04d4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIAL-MAZARELLO_PPC_GUARITA_FINAL_2024.06.03690e2043-00b9-44b0-a407-75131da8b89d.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PPC_AREAPa1cea475-a363-4fce-8e83-fb45856bf459.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PPC_QUARTOMAIOR_FINAL_2024.06.04e1ed76ac-daf9-4405-a0e1-529dfa5243ce.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PPC_SALACOZINHA_FINAL_2024.06.04433d4072-11de-4fbc-9fa9-ff9716151ef7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/749.8_res_mazarello_img_aerea_ine057cbaf-edd7-43cc-98cf-0036db047314.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/vitrine/CasaPaulista70e0af66-0d09-4b46-b221-d3cded0453b0.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_IMPLANTACAO3D_FINAL_2024.06.07aed0a8c3-1dac-4bf4-b7b7-cefd0f957d7a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PH_BLOCO01APTO101_FINAL_2024.06.03f46f8013-29e1-41dd-bb2e-a235786e56f4.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PH_BLOCO09APTO103_FINAL_2024.06.03a2eb0182-aab1-49d5-98bc-d5c375f5edf7.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PH_BLOCO01APTO202_V2_2024.06.03cd57b9f9-6424-4292-9267-644d8172a615.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4598/RESIDENCIALMAZARELLO_PH_IMPLANTACAO_FINAL_2024.06.03a05a6e67-8ab0-4a00-bf41-c523f6b4a985.jpeg</item>
+  </galeria_plantas>
+</imovel>

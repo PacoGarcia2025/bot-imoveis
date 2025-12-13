@@ -1,0 +1,38 @@
+<imovel>
+  <titulo>Parque Holandes</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-parque-holandes</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>A 20 min. Do Aeroporto de São Paulo/Congonhas, 2 min. Do Parque Nabuco, 10 min. Do Shopping Interlagos, 20 min. Do Autódromo de Interlagos, 20 min. do Zoológico de São Paulo, 20 min. Da Av. Miguel Estefano.</descricao>
+  <endereco>Rua Baquirivu, nâ 137 (Região do Cupecê - São Paulo/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>35,13 a 152,53 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Salão de Festas</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_INTERNA_VARANDA-APTO-60322e4bb65-12b0-430c-8c63-bea158d1b31c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PPC_QUADRAa44f1820-f8f6-4226-8be0-14a94a8bb983.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PPC_FITNESS-EXTERNOb19ad9e7-bddb-47b9-b7c9-6b3c48d777fa.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PPC_GOURMET02fa5501-46b1-4c53-a68f-023f038d9a7b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PPC_HORTA-E-PEQUENIQUE22193d47-73fb-4b1b-8090-dc30bb998e0a.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PPC_PLAYBABY8a0ec71f-9468-4e9f-a07d-1090b9f78772.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PPC_SALAO-DE-FESTAS572dc8d1-561b-4dd1-8d2d-acbe6a566845.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PPC_FACHADA0bea40c7-657d-4898-acd8-c31808a9fcc2.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_INTERNA_AREA-PRIVATIVA-APTO-1035f068d47-4131-4156-a5a5-74ca09e2a5bf.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_INTERNA_LIVING-APTO-60370a9b418-39f0-4cc6-a920-09e954f8ac66.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_INTERNA_QUARTO17401070-7ef3-4ba5-b9be-df81d44dc818.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçokids.webp</item>
+    <item>https://www.mrv.com.br/content/dam/conhecer/pin_mrv.png</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4511/vitrine/Site-HIS83ecd2ba-2a0b-4c91-9fc3-f812966289d7.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_IMPLANTACAO_GERAL3923c166-e54d-47d9-8bd0-290279dcde7b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUEHOLANDES_PH_TORRE01_APTO3f0cfb52-cbcb-4a70-a91b-c9b3e6e80b44.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PH_TORRE-01_APTO-601112dbfe0-5844-47f1-9dfe-f38e5e0ef0b6.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PH_TORRE-01_APTO-60364131d52-2d0b-475b-b9ec-de9c7df836f9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4760/PARQUE-HOLANDES_PH_IMPLANTAÇOe6363b15-3731-45b2-8d5e-c1f665f60d8c.jpeg</item>
+  </galeria_plantas>
+</imovel>

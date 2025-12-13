@@ -1,0 +1,38 @@
+<imovel>
+  <titulo>Residencial Jardim Oliveiras</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-jose-do-rio-preto/apartamentos-residencial-jardim-oliveiras</link>
+  <cidade>Sao Jose Do Rio Preto</cidade>
+  <descricao>Abra as portas para um novo mundo de possibilidades em uma plataforma completa, com tudo o que você precisa para personalizar seu lar com segurança e viver a melhor experiência em casa e no condomínio.</descricao>
+  <endereco>Rua Maria Olímpia dos Santos Fabaro, nâ 1001 (Residencial Maria Clara - São José do Rio Preto/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>39,3 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+    <item>Pomar</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_INTERNA_VARANDA_2025.05713da7a5-ec42-4d1c-9d3b-02eac1475954.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIALJARDIMOLIVEIRAS_PPCb8ef5d66-ba29-4de5-b6e0-c0da00733b4e.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_PPC_CHURRASQUEIRA_2025.05bb13376d-de08-4de0-8fe0-278d3fda9e2f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_PPC_PET-PLACE_2025.05f6ef1b99-3314-4fc7-a354-fa3ff48ad272.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_PPC_PLAYGROUND_2025.058e30017f-0ad6-486c-ba2d-46fe3081b475.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_PPC_QUADRA-GRAMADA_2025b7e850dc-73aa-44ca-9dd5-3235c1d0839c.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_PPC_INSERÇO_2025.050c5b3a8a-ba64-467b-97d7-5171bdb848e2.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_IMP3D_IMPLANTAÇO-3D_2025.0540bf5948-db06-437a-9e3c-b3afc4222006.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_INTERNA_REA-PRIVATIVA_2025.058a9f91f7-1806-4458-8ce8-6d826e02aaa9.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_INTERNA_QUARTO-CASAL_2025.05e77601d9-85e6-40c3-b3fb-cc6860a2450f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_INTERNA_QUARTO-SOLTEIRO_2025.0559ea9b84-a4b4-4366-891b-182ceb6935ed.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_INTERNA_SALA+COZINHA_2025.05537c81f2-3912-444e-9127-d09b5a45b00b.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_PH_APTO-103-TERREO_2025.054c629769-43ab-4045-9316-96aaee68a416.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4764/RESIDENCIAL-JARDIM-OLIVEIRAS_PH_APTO-201-TIPO_2025.05e1b1539c-e1c7-4cf9-835b-5b3465797325.jpeg</item>
+  </galeria_plantas>
+</imovel>

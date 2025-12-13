@@ -1,0 +1,39 @@
+<imovel>
+  <titulo>Saint Rose</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/sao-paulo/apartamentos-saint-rose</link>
+  <cidade>Sao Paulo</cidade>
+  <descricao>Torre 1HIS-1: F01 a F08 do 1º ao 14º andar; F03 a F06   do 15º andarHIS-2: F02, F07 e F08 do 15º andar; F01 a F08 do 16º andar; F07 e F08 do 17º andar; F03 a F06 do 17º ao 21º andar; F04 e F06 do 22º andar; F03 a F06 do 23º andarR2V: F01 a F08 do térreo; F01 do 15º andar; F01 e F02 do 17º andar; F01, F02, F07 e F08 do 18º ao 21º andar; F01, F02, F03, F05, F07 e F08 do 22º andar; F01, F02, F07 e F08 do 23º andar</descricao>
+  <endereco></endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>36,47 a 38,11 m²</area_privativa>
+  <vagas>1</vagas>
+  <itens_lazer>
+    <item>Playground</item>
+    <item>Salão de Festas</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/VARANDA_FINAL99fb07d1-f549-4d54-abc0-d91c4e0eb730.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/SAINT_ROSE_FACHADA_T0415d9c4dd0-13fa-4214-a7a2-a56cf51356ee.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/GOURMET_FINAL4676592c-a699-468f-90b6-a311bf21e8a6.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/PLAYGROUND_FINAL5e366352-65ae-4ec3-8b37-46235b19f851.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/SALODEFESTAS_FINAL15eafb70-b44a-408c-ae3f-9e39be35126d.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/SALODEJOGOS_FINAL0a411d4f-2f62-45ba-82ef-8b25c84ce008.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/FOTOINSERÇO_GOOGLEedb21d6a-5102-4227-81b7-54598a6d5e3f.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/QUARTO_FINAL_028cf81c50-9d7d-40e5-863d-86d2e778f5c1.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/QUARTO_FINAL_01b3bbb613-3168-4534-b137-3cd50ef8a02e.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/LIVING_FINAL54b976dc-35ea-4eeb-a91f-34074919542e.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/VARANDALIVING_FINALf3fc6473-0002-428c-95ef-bb6aa8236b51.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Espaçogourmet.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Salãodefesta.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/822-2_saint_rose_img_aerea_v3(1)eadad1f4-7fa6-4b7d-bb07-62183be907ff.jpeg</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/IMPLANTAÇO519f8364-c316-41ac-9ccf-426479cdbd29.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/APTO006-01a20c1fe9-c63d-413f-a409-d04e32d9e87c.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/APTO008-01af72f33a-93d5-4682-bf07-de854d81f27e.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/APTO906-01053f32e9-a4e7-484e-956e-010418ba02d0.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4627/APTO908-0136c915fb-347e-4168-ae41-63e1eb4d5047.jpg</item>
+  </galeria_plantas>
+</imovel>

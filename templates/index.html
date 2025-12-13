@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal MRV - Clone</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { background-color: #f4f4f4; font-family: 'Segoe UI', sans-serif; }
+        .card-imovel { 
+            border: none; 
+            border-radius: 10px; 
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
+            transition: transform 0.2s;
+            background: white;
+            overflow: hidden;
+            height: 100%;
+        }
+        .card-imovel:hover { transform: translateY(-5px); }
+        .img-cover { 
+            height: 200px; 
+            object-fit: cover; 
+            width: 100%; 
+        }
+        .badge-info { background-color: #00d26a; color: white; padding: 5px 10px; border-radius: 4px; font-size: 0.8em; }
+        .specs { font-size: 0.9em; color: #666; margin: 10px 0; display: flex; gap: 15px; }
+        .specs i { color: #00d26a; }
+        .titulo { font-weight: 700; color: #333; font-size: 1.1em; margin-bottom: 5px; }
+        .endereco { font-size: 0.85em; color: #888; height: 40px; overflow: hidden; }
+        .btn-ver { background-color: #00d26a; border: none; width: 100%; font-weight: bold; }
+        .btn-ver:hover { background-color: #00b058; }
+        
+        /* Modal de Galeria */
+        .modal-img { max-height: 80vh; object-fit: contain; width: 100%; }
+        .lazer-tag { background: #e9ecef; border-radius: 20px; padding: 2px 10px; font-size: 0.75em; display: inline-block; margin: 2px; }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <nav class="navbar navbar-dark bg-dark mb-4">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <i class="fas fa-building text-success"></i> 
+                <strong>MRV</strong>Clone
+            </a>
+            <span class="text-white">Total: {{ total }} Imóveis em SP</span>
+        </div>
+    </nav>
+
+    <div class="container pb-5">
+        {% if total == 0 %}
+            <div class="alert alert-warning text-center">
+                <h4>Nenhum imóvel encontrado!</h4>
+                <p>Verifique se o arquivo <strong>MRVsp.xml</strong> está na pasta e tem dados.</p>
+            </div>
+        {% else %}
+            <div class="row">
+                {% for imovel in imoveis %}
+                <div class="col-md-4 col-sm-6 mb-4">
+                    <div class="card card-imovel">
+                        {% if imovel.galeria_fotos and imovel.galeria_fotos.item %}
+                            {% if imovel.galeria_fotos.item is string %}
+                                <img src="{{ imovel.galeria_fotos.item }}" class="img-cover" alt="Foto Capa">
+                            {% else %}
+                                <img src="{{ imovel.galeria_fotos.item[0] }}" class="img-cover" alt="Foto Capa">
+                            {% endif %}
+                        {% else %}
+                            <img src="https://via.placeholder.com/400x200?text=Sem+Foto" class="img-cover" alt="Sem Foto">
+                        {% endif %}
+
+                        <div class="card-body">
+                            <div class="titulo">{{ imovel.titulo }}</div>
+                            <div class="endereco"><i class="fas fa-map-marker-alt"></i> {{ imovel.endereco }}</div>
+                            
+                            <hr style="margin: 10px 0;">
+
+                            <div class="specs">
+                                <span><i class="fas fa-ruler-combined"></i> {{ imovel.area_privativa }}</span>
+                                <span><i class="fas fa-bed"></i> {{ imovel.dormitorios }}</span>
+                                <span><i class="fas fa-car"></i> {{ imovel.vagas }}</span>
+                            </div>
+
+                            <div class="mb-3">
+                                {% if imovel.itens_lazer and imovel.itens_lazer.item %}
+                                    {% set raw_lazer = imovel.itens_lazer.item %}
+                                    {% set lista_lazer = [raw_lazer] if raw_lazer is string else raw_lazer %}
+                                    
+                                    {% for item in lista_lazer[:3] %}
+                                        <span class="lazer-tag">{{ item }}</span>
+                                    {% endfor %}
+                                    
+                                    {% if lista_lazer|length > 3 %}
+                                        <span class="lazer-tag">+</span>
+                                    {% endif %}
+                                {% endif %}
+                            </div>
+
+                            <button type="button" class="btn btn-primary btn-ver" data-bs-toggle="modal" data-bs-target="#modal{{ loop.index0 }}">
+                                Ver Detalhes
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="modal fade" id="modal{{ loop.index0 }}" tabindex="-1" aria-hidden="true">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">{{ imovel.titulo }}</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <h6>Descrição:</h6>
+                                    <p class="text-muted small">{{ imovel.descricao }}</p>
+                                    
+                                    <hr>
+                                    <h6>Galeria de Fotos:</h6>
+                                    <div class="d-flex" style="overflow-x: auto; gap: 10px; padding-bottom: 10px;">
+                                        {% if imovel.galeria_fotos and imovel.galeria_fotos.item %}
+                                            {% set fotos = [imovel.galeria_fotos.item] if imovel.galeria_fotos.item is string else imovel.galeria_fotos.item %}
+                                            {% for f in fotos %}
+                                                <img src="{{ f }}" style="height: 150px; border-radius: 5px;">
+                                            {% endfor %}
+                                        {% endif %}
+                                    </div>
+                                    
+                                    <hr>
+                                    <h6>Plantas:</h6>
+                                    <div class="d-flex" style="overflow-x: auto; gap: 10px;">
+                                        {% if imovel.galeria_plantas and imovel.galeria_plantas.item %}
+                                            {% set plantas = [imovel.galeria_plantas.item] if imovel.galeria_plantas.item is string else imovel.galeria_plantas.item %}
+                                            {% for p in plantas %}
+                                                <img src="{{ p }}" style="height: 150px; border-radius: 5px; border: 1px solid #ccc;">
+                                            {% endfor %}
+                                        {% else %}
+                                            <p class="small text-muted">Sem plantas disponíveis.</p>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="{{ imovel.link }}" target="_blank" class="btn btn-outline-success">Ver no Site Original</a>
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

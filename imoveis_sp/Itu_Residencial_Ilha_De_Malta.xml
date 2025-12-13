@@ -1,0 +1,36 @@
+<imovel>
+  <titulo>Residencial Ilha De Malta</titulo>
+  <link>https://www.mrv.com.br/imoveis/sao-paulo/itu/apartamentos-residencial-ilha-de-malta</link>
+  <cidade>Itu</cidade>
+  <descricao>A área de lazer é ideal para todas as idades: churrasqueira para os encontros especiais, playground para a diversão das crianças, quadra gramada para atividades ao ar livre e um pet place que garante diversão também para os seus animais de estimação, além de um bicicletário prático para quem adora se locomover de forma sustentável.</descricao>
+  <endereco>Rua Paulina Hannania Adas (Região do Madre Paulina - Itu/SP)</endereco>
+  <dormitorios>2</dormitorios>
+  <area_privativa>40,83 a 181,41 m²</area_privativa>
+  <vagas></vagas>
+  <itens_lazer>
+    <item>Churrasqueira</item>
+    <item>Playground</item>
+    <item>Pet Place</item>
+    <item>Bicicletário</item>
+  </itens_lazer>
+  <galeria_fotos>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_REA-PRIVATIVA_FINAL_20240123.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_SALA-E-COZINHA_FINAL_20240123.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_QUADRA_FINAL_20240123.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_PLAY-E-CHURRASQUEIRA_FINAL_20240123.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_CHURRASQUEIRA-E-PET_FINAL_20240123.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHADEMALTA_GUARITA_FINAL_2024a2a48cd7-92cd-4198-b5d0-f58cfcdee177.jpeg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_QUARTO-MENOR_FINAL_20240123.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_QUARTO-MAIOR_FINAL_20240123.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Sacadacomchurrasqueira.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Petplace.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/LinhaProduto/Playground.webp</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/664-1_res_ilha_malta_foto-aerea_V1_ALTA.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/vitrine/MinhaCasaMinhaVida0fb8658d-f54e-48e4-b266-eccdfbc25273.webp</item>
+  </galeria_fotos>
+  <galeria_plantas>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_APTO101_FINAL_20240123.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHA-DE-MALTA_APTO204_FINAL_20240123.jpg</item>
+    <item>https://cdn.mrv.com.br/imoveis/upload/imagens/4551/ILHADEMALTA_MASTERPLAN_FINAL_2a6bc811b-94b5-4a9c-be71-163226a17c5f.jpeg</item>
+  </galeria_plantas>
+</imovel>

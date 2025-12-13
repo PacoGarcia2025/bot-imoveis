@@ -1,50 +1,50 @@
-print(">>> O SCRIPT 'MRVsp' COMEÇOU! <<<")
+print(">>> O SCRIPT V6 (ANTI-CRASH & RESTART) COMEÇOU! <<<")
 
 import time
 import re
 import os
+import subprocess 
+import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
+from selenium.common.exceptions import TimeoutException, WebDriverException
 
-# --- CONFIGURAÇÃO DO NOME DO ARQUIVO ---
+# --- CONFIGURAÇÃO ---
 ARQUIVO_SAIDA = "MRVsp.xml" 
 ESTADO_ALVO = "sao-paulo"
 
 def iniciar_driver():
     options = Options()
-    # Se quiser ocultar o navegador, tire o # da linha abaixo
-    # options.add_argument("--headless") 
+    # options.add_argument("--headless") # Tire o # para rodar invisível
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
     options.add_argument("--log-level=3")
+    # Estratégia 'eager': carrega assim que o HTML base estiver pronto (mais rápido)
+    options.page_load_strategy = 'eager' 
     
-    print("--- Iniciando navegador... ---")
+    print("--- (Re)Iniciando navegador... ---")
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
+    driver.set_page_load_timeout(30)
     return driver
 
-def limpar_texto(texto):
-    if not texto: return ""
-    return re.sub(r'\s+', ' ', texto).strip()
-
-# --- FUNÇÃO: CRIA O ARQUIVO E ABRE A TAG <IMOVEIS> ---
 def inicializar_arquivo_unico():
     with open(ARQUIVO_SAIDA, "w", encoding="utf-8") as f:
         f.write("<imoveis>\n")
-    print(f"Arquivo '{ARQUIVO_SAIDA}' criado com sucesso!")
+    print(f"Arquivo '{ARQUIVO_SAIDA}' (re)iniciado!")
 
-# --- FUNÇÃO: GRAVA UM IMÓVEL DENTRO DO ARQUIVO ---
 def adicionar_ao_arquivo_unico(dados):
+    if not dados: return 
+    
     xml_content = "  <imovel>\n"
     for chave, valor in dados.items():
         if isinstance(valor, list):
             xml_content += f"    <{chave}>\n"
             for item in valor:
-                # Limpa caracteres que quebram XML (&, <, >)
                 item_limpo = str(item).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
                 xml_content += f"      <item>{item_limpo}</item>\n"
             xml_content += f"    </{chave}>\n"
@@ -53,45 +53,53 @@ def adicionar_ao_arquivo_unico(dados):
             xml_content += f"    <{chave}>{valor_limpo}</{chave}>\n"
     xml_content += "  </imovel>\n"
     
-    # 'a' significa append (adicionar ao final)
     with open(ARQUIVO_SAIDA, "a", encoding="utf-8") as f:
         f.write(xml_content)
-    print(f"   -> Salvo em {ARQUIVO_SAIDA}")
+    print(f"   -> Salvo no XML.")
 
-# --- FUNÇÃO: FECHA A TAG </IMOVEIS> NO FINAL ---
 def finalizar_arquivo_unico():
     try:
         with open(ARQUIVO_SAIDA, "a", encoding="utf-8") as f:
             f.write("</imoveis>")
-        print(f"Arquivo '{ARQUIVO_SAIDA}' finalizado corretamente.")
-    except:
-        print("Erro ao finalizar arquivo.")
-
-# --- FUNÇÃO: BUSCAR LINKS (COM CLIQUE) ---
-def buscar_links_do_estado(driver, estado):
-    url_busca = f"https://www.mrv.com.br/imoveis/{estado}"
-    print(f"\n>>> ACESSANDO: {url_busca}")
-    driver.get(url_busca)
-    time.sleep(5)
-    
-    try:
-        driver.find_element(By.ID, "onetrust-accept-btn-handler").click()
+        print(f"Arquivo finalizado.")
     except: pass
 
-    print("--- Buscando imóveis (Carregando lista completa)... ---")
+def atualizar_github():
+    print("\n" + "="*40)
+    print("UPLOAD GITHUB...")
+    try:
+        subprocess.run(["git", "add", ARQUIVO_SAIDA], check=True)
+        mensagem = f"Auto update {time.strftime('%Y-%m-%d %H:%M')}"
+        subprocess.run(["git", "commit", "-m", mensagem], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print(">>> SUCESSO! GITHUB ATUALIZADO. <<<")
+    except:
+        print("Nada novo para enviar ou erro no Git.")
+
+def buscar_links_do_estado(driver, estado):
+    url_busca = f"https://www.mrv.com.br/imoveis/{estado}"
+    print(f"\n>>> ACESSANDO LISTAGEM: {url_busca}")
+    try: driver.get(url_busca)
+    except: driver.refresh()
+    time.sleep(5)
     
+    try: driver.find_element(By.ID, "onetrust-accept-btn-handler").click()
+    except: pass
+
+    print("--- Carregando lista (Scroll/Clique)... ---")
+    erros = 0
     while True:
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(2)
         try:
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(2)
             botao = driver.find_element(By.XPATH, "//button[contains(., 'Carregar') or contains(., 'Ver mais')]")
             if botao.is_displayed():
                 driver.execute_script("arguments[0].click();", botao)
-                time.sleep(4) 
+                time.sleep(3) 
                 print(".", end="", flush=True)
-            else:
-                break
-        except:
+                erros = 0
+            else: break
+        except: 
             break
 
     soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -101,15 +109,29 @@ def buscar_links_do_estado(driver, estado):
         if f"/imoveis/{estado}/" in href and "mapa-do-site" not in href:
             if href.startswith('/'): href = "https://www.mrv.com.br" + href
             links.add(href)
-            
+    
     lista = list(links)
-    print(f"\n>>> SUCESSO! {len(lista)} IMÓVEIS ENCONTRADOS.")
+    print(f"\n>>> {len(lista)} IMÓVEIS ENCONTRADOS.")
     return lista
 
-# --- FUNÇÃO: EXTRAIR DADOS ---
 def extrair_dados_imovel(driver, url):
-    driver.get(url)
-    time.sleep(3)
+    # Tenta 2 vezes (Normal e Refresh)
+    for tentativa in range(2):
+        try:
+            if tentativa == 0: driver.get(url)
+            else: 
+                print("   [Auto-F5] Recarregando...")
+                driver.refresh()
+            break
+        except TimeoutException:
+            if tentativa == 1: 
+                print("   [Timeout] Pulei.")
+                driver.execute_script("window.stop();")
+                return None
+        except Exception:
+            return None # Erro de conexão grave, retorna None para reiniciar driver
+
+    time.sleep(2)
     soup = BeautifulSoup(driver.page_source, 'html.parser')
     texto_pagina = soup.get_text(" | ") 
 
@@ -128,7 +150,9 @@ def extrair_dados_imovel(driver, url):
     dados['titulo'] = url.split('/')[-1].replace('apartamentos-', '').replace('-', ' ').title()
 
     end = soup.find_all(['p', 'span', 'div'], string=lambda t: t and ('Rua' in t or 'Avenida' in t) and len(t) < 100)
-    if end: dados['endereco'] = limpar_texto(end[0].get_text())
+    if end: 
+        txt = re.sub(r'\s+', ' ', end[0].get_text()).strip()
+        dados['endereco'] = txt
 
     dorms = re.search(r'(\d+\s*a\s*\d+|\d+)\s*quartos', texto_pagina, re.IGNORECASE)
     if dorms: dados['dormitorios'] = dorms.group(1)
@@ -158,14 +182,13 @@ def extrair_dados_imovel(driver, url):
     black = ['logo', 'icon', 'facebook', 'instagram', 'mia', 'home_work']
     for img in soup.find_all('img'):
         src = img.get('src')
-        alt = img.get('alt', '').lower()
         if not src or any(b in src.lower() for b in black): continue
         if src.startswith('//'): src = 'https:' + src
         elif src.startswith('/'): src = 'https://www.mrv.com.br' + src
         
         if ('mrv' in src or 'content' in src) and src not in seen:
             seen.add(src)
-            if 'planta' in alt or 'planta' in src or 'implantacao' in alt:
+            if 'planta' in img.get('alt','').lower() or 'planta' in src:
                 plantas.append(src)
             else:
                 fotos.append(src)
@@ -174,27 +197,52 @@ def extrair_dados_imovel(driver, url):
     dados['galeria_plantas'] = plantas[:5]
     return dados
 
-# --- EXECUÇÃO ---
+# --- BLOCO PRINCIPAL COM REINICIALIZAÇÃO DO DRIVER ---
 if __name__ == "__main__":
     driver = iniciar_driver()
     
     try:
         inicializar_arquivo_unico()
-        links = buscar_links_do_estado(driver, ESTADO_ALVO)
         
+        # Pega a lista de links
+        links = buscar_links_do_estado(driver, ESTADO_ALVO)
         total = len(links)
+        
+        # Fecha driver inicial e abre um novo limpo para começar a extração
+        driver.quit()
+        driver = iniciar_driver()
+
         for i, link in enumerate(links):
             print(f"[{i+1}/{total}] Processando: {link} ...")
+            
+            # REGRA DO PIT STOP: A cada 20 imóveis, reinicia o navegador
+            if i > 0 and i % 20 == 0:
+                print("--- PIT STOP: Reiniciando navegador para limpar memória... ---")
+                driver.quit()
+                time.sleep(2)
+                driver = iniciar_driver()
+            
             try:
                 dados = extrair_dados_imovel(driver, link)
-                adicionar_ao_arquivo_unico(dados)
+                if dados:
+                    adicionar_ao_arquivo_unico(dados)
+                else:
+                    # Se retornou None, pode ter sido crash. Reinicia por segurança.
+                    raise Exception("Dados vazios/Crash")
+                    
             except Exception as e:
-                print(f"   !!! Erro: {e}")
-                continue
-                
+                print(f"   !!! Erro de conexão ou Crash ({e}). Reiniciando Driver...")
+                try:
+                    driver.quit()
+                except: pass
+                time.sleep(2)
+                driver = iniciar_driver()
+                continue # Vai para o próximo imóvel
+
     except Exception as e:
-        print(f"Erro fatal: {e}")
+        print(f"Erro Fatal Geral: {e}")
     finally:
         finalizar_arquivo_unico()
-        driver.quit()
-        print(f"\n>>> PROCESSO CONCLUÍDO! Verifique o arquivo '{ARQUIVO_SAIDA}'.")
+        try: driver.quit()
+        except: pass
+        atualizar_github()

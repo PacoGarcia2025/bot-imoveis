@@ -8,13 +8,13 @@ from datetime import datetime
 PASTA_PROJETO = os.getcwd() 
 
 # Lista de robôs que serão executados em sequência
-# A ordem importa: se um falhar, o script tenta o próximo
 SCRIPTS = [
     "scraper_hm.py",        # 1. HM Engenharia
     "scraper.py",           # 2. MRV
     "scraper_cury.py",      # 3. Cury Construtora
-    "scraper_direcional.py",# 4. Direcional Engenharia
-    "scraper_plano.py"      # 5. Plano & Plano (FINALIZADO!)
+    "scraper_direcional.py",# 4. Direcional
+    "scraper_plano.py",     # 5. Plano & Plano
+    "scraper_longitude.py"  # 6. Longitude (NOVO!)
 ]
 
 def log(mensagem):
@@ -45,8 +45,8 @@ def tarefa_principal():
         if os.path.exists(caminho_script):
             log(f"--- 🎬 Rodando {script} ---")
             try:
-                # O timeout evita que um robô travado pare tudo (max 20 min por robô)
-                subprocess.run(["python", script], check=True, timeout=1200)
+                # Timeout de 25 min por robô para evitar travamentos
+                subprocess.run(["python", script], check=True, timeout=1500)
                 log(f"✅ {script} finalizado.")
             except subprocess.TimeoutExpired:
                 log(f"⚠️ {script} demorou demais e foi pulado.")
@@ -55,20 +55,16 @@ def tarefa_principal():
         else:
             log(f"⚠️ ARQUIVO NÃO ENCONTRADO: {script}")
 
-    # Só sobe pro Git depois de tentar rodar todos
+    # Só sobe pro Git no final de tudo
     rodar_git()
     log("💤 Ciclo concluído. Aguardando próximo agendamento...")
 
 # --- AGENDAMENTOS ---
-# Roda a cada 4 horas
 schedule.every(4).hours.do(tarefa_principal)
 
 # --- INÍCIO ---
-log("🤖 SISTEMA DE MONITORAMENTO DE IMÓVEIS - ATIVO")
-log(f"📋 Robôs na fila: {len(SCRIPTS)}")
-
-# Executa uma vez agora para testar
-tarefa_principal()
+log(f"🤖 AGENDADOR ATIVO - {len(SCRIPTS)} CONSTRUTORAS NA FILA")
+tarefa_principal() # Roda uma vez ao iniciar
 
 while True:
     schedule.run_pending()

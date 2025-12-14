@@ -9,12 +9,13 @@ PASTA_PROJETO = os.getcwd()
 
 # Lista de robôs que serão executados em sequência
 SCRIPTS = [
-    "scraper_hm.py",        # 1. HM Engenharia
-    "scraper.py",           # 2. MRV
-    "scraper_cury.py",      # 3. Cury Construtora
-    "scraper_direcional.py",# 4. Direcional
-    "scraper_plano.py",     # 5. Plano & Plano
-    "scraper_longitude.py"  # 6. Longitude (NOVO!)
+    "scraper_hm.py",            # 1. HM Engenharia
+    "scraper.py",               # 2. MRV
+    "scraper_cury.py",          # 3. Cury Construtora
+    "scraper_direcional.py",    # 4. Direcional
+    "scraper_plano.py",         # 5. Plano & Plano
+    "scraper_longitude.py",     # 6. Longitude
+    "scraper_tegra_campinas.py" # 7. Tegra Campinas (NOVO!)
 ]
 
 def log(mensagem):

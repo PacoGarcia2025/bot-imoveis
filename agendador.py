@@ -15,7 +15,8 @@ SCRIPTS = [
     "scraper_direcional.py",    # 4. Direcional
     "scraper_plano.py",         # 5. Plano & Plano
     "scraper_longitude.py",     # 6. Longitude
-    "scraper_tegra_campinas.py" # 7. Tegra Campinas (NOVO!)
+    "scraper_tegra_campinas.py",# 7. Tegra Campinas
+    "scraper_tegra_sp.py"       # 8. Tegra SP
 ]
 
 def log(mensagem):
@@ -46,8 +47,8 @@ def tarefa_principal():
         if os.path.exists(caminho_script):
             log(f"--- 🎬 Rodando {script} ---")
             try:
-                # Timeout de 25 min por robô para evitar travamentos
-                subprocess.run(["python", script], check=True, timeout=1500)
+                # Timeout aumentado para 30 min por causa de SP
+                subprocess.run(["python", script], check=True, timeout=1800)
                 log(f"✅ {script} finalizado.")
             except subprocess.TimeoutExpired:
                 log(f"⚠️ {script} demorou demais e foi pulado.")

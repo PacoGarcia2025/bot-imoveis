@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Termo de Entrega de Chaves – Locação Comercial</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    :root {
+      --olive: #556b2f;      /* verde oliva SGO */
+      --olive-dark: #3f4f21;/* oliva mais escuro */
+      --text: #1f2933;
+      --muted: #6b7280;
+      --bg: #f2f5f2;
+      --card: #ffffff;
+      --border: #d1d5db;
+    }
+
+    * {
+      box-sizing: border-box;
+      font-family: "Inter", "Segoe UI", Arial, sans-serif;
+      -webkit-print-color-adjust: exact !important;
+      print-color-adjust: exact !important;
+    }
+
+    body {
+      margin: 0;
+      padding: 32px;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 28px;
+      padding: 24px;
+      border-radius: 16px;
+      background: linear-gradient(135deg, var(--olive), var(--olive-dark));
+      color: #fff;
+    }
+
+    .header h1 {
+      margin: 0;
+      font-size: 26px;
+      letter-spacing: 0.5px;
+    }
+
+    .header p {
+      margin-top: 6px;
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      border: 1px solid var(--border);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+      page-break-inside: avoid;
+    }
+
+    .card h2 {
+      margin-top: 0;
+      font-size: 17px;
+      color: var(--olive);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 8px;
+      margin-bottom: 14px;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .info {
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .info strong {
+      color: #000;
+    }
+
+    .checkbox {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+      font-size: 14px;
+    }
+
+    .checkbox span {
+      width: 18px;
+      height: 18px;
+      border: 2px solid var(--olive);
+      border-radius: 4px;
+      flex-shrink: 0;
+    }
+
+    .signatures {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 32px;
+      margin-top: 24px;
+    }
+
+    .signature {
+      text-align: center;
+      font-size: 14px;
+    }
+
+    .line {
+      margin: 40px 0 8px;
+      border-top: 1px solid #000;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 24px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    /* AJUSTES ESPECÍFICOS PARA PDF / IMPRESSÃO */
+    @media print {
+      body {
+        background: #fff !important;
+        padding: 16mm;
+      }
+
+      .header {
+        background: linear-gradient(135deg, var(--olive), var(--olive-dark)) !important;
+        color: #fff !important;
+      }
+
+      .card {
+        box-shadow: none !important;
+        border: 1px solid #bbb !important;
+        border-radius: 12px !important;
+      }
+
+      .footer {
+        color: #444 !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="header">
+      <h1>TERMO DE ENTREGA DE CHAVES</h1>
+      <p>Locação Comercial • SGO Imób</p>
+    </div>
+
+    <div class="card">
+      <h2>Identificação das Partes</h2>
+      <div class="info-grid">
+        <div class="info"><strong>Locadora:</strong><br>Marcia Garcia Oliveira<br>CPF: 055.391.158-99</div>
+        <div class="info"><strong>Locatário:</strong><br>Sergio Maurício Teixeira Salvador<br>CPF: 059.213.938-78</div>
+        <div class="info"><strong>Administradora:</strong><br>SGO Negócios Imobiliários LTDA ME<br>CNPJ: 42.824.690/0001-43</div>
+        <div class="info"><strong>Data da Entrega:</strong><br>____ / ____ / 2025</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Imóvel</h2>
+      <div class="info">
+        Salão Comercial localizado na <strong>Rua Anésio Palermo, nº 67-A, Jardim Nossa Senhora de Fátima, Hortolândia/SP</strong>, CEP 13.185-462, sem vaga de garagem.
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Contrato de Locação</h2>
+      <div class="info">
+        Contrato firmado em <strong>15/09/2023</strong>, com início em <strong>18/09/2023</strong>, rescindido por comum acordo, tendo como <strong>data final da locação 17/12/2025</strong>.
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Vistoria de Saída</h2>
+      <div class="checkbox"><span></span> Imóvel vistoriado e em conformidade com o laudo inicial</div>
+      <div class="checkbox"><span></span> Imóvel vistoriado com ressalvas (descritas em relatório próprio)</div>
+    </div>
+
+    <div class="card">
+      <h2>Declarações</h2>
+      <div class="info">
+        Com a entrega das chaves, a posse direta do imóvel retorna à LOCADORA, não implicando quitação automática de eventuais valores pendentes, os quais poderão ser apurados após a vistoria final.
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Assinaturas</h2>
+      <div class="signatures">
+        <div class="signature">
+          <div class="line"></div>
+          Marcia Garcia Oliveira<br><strong>Locadora</strong>
+        </div>
+        <div class="signature">
+          <div class="line"></div>
+          Sergio Maurício Teixeira Salvador<br><strong>Locatário</strong>
+        </div>
+        <div class="signature">
+          <div class="line"></div>
+          SGO Negócios Imobiliários LTDA ME<br><strong>Administradora</strong>
+        </div>
+        <div class="signature">
+          <div class="line"></div>
+          Testemunha – Nome / CPF
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      Documento gerado digitalmente • SGO Imób
+    </div>
+
+  </div>
+</body>
+</html>

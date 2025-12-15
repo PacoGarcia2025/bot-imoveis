@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imoveis>
+  <imovel>
+    <titulo>Breve Lançamento Jardim Liviero</titulo>
+    <construtora>Direcional</construtora>
+    <cidade>São Paulo</cidade>
+    <estado>SP</estado>
+    <url>https://www.direcional.com.br/empreendimentos</url>
+    <dormitorios>2</dormitorios>
+    <metragem>35</metragem>
+    <valor>350000</valor>
+    <status>Lançamento</status>
+  </imovel>
+</imoveis>
